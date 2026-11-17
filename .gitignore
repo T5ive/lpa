@@ -1,0 +1,16 @@
+# dependencies
+node_modules/
+
+# build output
+dist/
+
+# ZCode workspace state
+.zcode/
+
+# editor / OS
+.DS_Store
+Thumbs.db
+*.local
+
+# logs
+*.log

@@ -1,0 +1,4419 @@
+{
+  "meta": {
+    "source": "สลากกินแบ่งรัฐบาลไทย — รวบรวมจาก myhora.com ด้วย tools/fetch-lottery.ts (ตรวจสอบข้ามแหล่งกับ sanook.com และตัวอย่างในโจทย์)",
+    "updatedAt": "2026-11-17",
+    "note": "เพิ่มงวดใหม่ด้วย bun tools/fetch-lottery.ts (หรือ --all สำหรับประวัติเต็ม) ตัวเลขทั้งหมดเก็บเป็น string เพื่อรักษาเลข 0 นำหน้า ห้ามมีวันที่ซ้ำ"
+  },
+  "draws": [
+    {
+      "date": "2026-11-16",
+      "firstPrize": "645654",
+      "lastTwoDigits": "06"
+    },
+    {
+      "date": "2026-11-01",
+      "firstPrize": "423224",
+      "lastTwoDigits": "85"
+    },
+    {
+      "date": "2026-10-16",
+      "firstPrize": "011781",
+      "lastTwoDigits": "48"
+    },
+    {
+      "date": "2026-10-01",
+      "firstPrize": "402701",
+      "lastTwoDigits": "70"
+    },
+    {
+      "date": "2026-09-16",
+      "firstPrize": "730640",
+      "lastTwoDigits": "64"
+    },
+    {
+      "date": "2026-09-01",
+      "firstPrize": "417212",
+      "lastTwoDigits": "04"
+    },
+    {
+      "date": "2026-08-16",
+      "firstPrize": "004615",
+      "lastTwoDigits": "53"
+    },
+    {
+      "date": "2026-08-01",
+      "firstPrize": "932479",
+      "lastTwoDigits": "69"
+    },
+    {
+      "date": "2026-07-16",
+      "firstPrize": "639214",
+      "lastTwoDigits": "71"
+    },
+    {
+      "date": "2026-07-01",
+      "firstPrize": "751495",
+      "lastTwoDigits": "62"
+    },
+    {
+      "date": "2026-06-16",
+      "firstPrize": "287184",
+      "lastTwoDigits": "48"
+    },
+    {
+      "date": "2026-06-01",
+      "firstPrize": "173770",
+      "lastTwoDigits": "95"
+    },
+    {
+      "date": "2026-05-16",
+      "firstPrize": "107387",
+      "lastTwoDigits": "08"
+    },
+    {
+      "date": "2026-05-02",
+      "firstPrize": "536077",
+      "lastTwoDigits": "43"
+    },
+    {
+      "date": "2026-04-16",
+      "firstPrize": "309612",
+      "lastTwoDigits": "77"
+    },
+    {
+      "date": "2026-04-01",
+      "firstPrize": "292514",
+      "lastTwoDigits": "47"
+    },
+    {
+      "date": "2026-03-16",
+      "firstPrize": "833009",
+      "lastTwoDigits": "64"
+    },
+    {
+      "date": "2026-03-01",
+      "firstPrize": "820866",
+      "lastTwoDigits": "06"
+    },
+    {
+      "date": "2026-02-16",
+      "firstPrize": "340563",
+      "lastTwoDigits": "07"
+    },
+    {
+      "date": "2026-02-01",
+      "firstPrize": "174629",
+      "lastTwoDigits": "48"
+    },
+    {
+      "date": "2026-01-17",
+      "firstPrize": "878972",
+      "lastTwoDigits": "02"
+    },
+    {
+      "date": "2026-01-02",
+      "firstPrize": "837706",
+      "lastTwoDigits": "16"
+    },
+    {
+      "date": "2025-12-16",
+      "firstPrize": "763895",
+      "lastTwoDigits": "52"
+    },
+    {
+      "date": "2025-12-01",
+      "firstPrize": "461252",
+      "lastTwoDigits": "22"
+    },
+    {
+      "date": "2025-11-16",
+      "firstPrize": "458145",
+      "lastTwoDigits": "37"
+    },
+    {
+      "date": "2025-11-01",
+      "firstPrize": "345898",
+      "lastTwoDigits": "87"
+    },
+    {
+      "date": "2025-10-16",
+      "firstPrize": "059696",
+      "lastTwoDigits": "61"
+    },
+    {
+      "date": "2025-10-01",
+      "firstPrize": "876978",
+      "lastTwoDigits": "77"
+    },
+    {
+      "date": "2025-09-16",
+      "firstPrize": "074646",
+      "lastTwoDigits": "58"
+    },
+    {
+      "date": "2025-09-01",
+      "firstPrize": "506356",
+      "lastTwoDigits": "31"
+    },
+    {
+      "date": "2025-08-16",
+      "firstPrize": "994865",
+      "lastTwoDigits": "63"
+    },
+    {
+      "date": "2025-08-01",
+      "firstPrize": "811852",
+      "lastTwoDigits": "50"
+    },
+    {
+      "date": "2025-07-16",
+      "firstPrize": "245324",
+      "lastTwoDigits": "26"
+    },
+    {
+      "date": "2025-07-01",
+      "firstPrize": "949246",
+      "lastTwoDigits": "91"
+    },
+    {
+      "date": "2025-06-16",
+      "firstPrize": "507392",
+      "lastTwoDigits": "06"
+    },
+    {
+      "date": "2025-06-01",
+      "firstPrize": "559352",
+      "lastTwoDigits": "20"
+    },
+    {
+      "date": "2025-05-16",
+      "firstPrize": "251309",
+      "lastTwoDigits": "87"
+    },
+    {
+      "date": "2025-05-02",
+      "firstPrize": "213388",
+      "lastTwoDigits": "06"
+    },
+    {
+      "date": "2025-04-16",
+      "firstPrize": "266227",
+      "lastTwoDigits": "85"
+    },
+    {
+      "date": "2025-04-01",
+      "firstPrize": "669687",
+      "lastTwoDigits": "36"
+    },
+    {
+      "date": "2025-03-16",
+      "firstPrize": "757563",
+      "lastTwoDigits": "32"
+    },
+    {
+      "date": "2025-03-01",
+      "firstPrize": "818894",
+      "lastTwoDigits": "54"
+    },
+    {
+      "date": "2025-02-16",
+      "firstPrize": "847377",
+      "lastTwoDigits": "50"
+    },
+    {
+      "date": "2025-02-01",
+      "firstPrize": "558700",
+      "lastTwoDigits": "51"
+    },
+    {
+      "date": "2025-01-17",
+      "firstPrize": "807779",
+      "lastTwoDigits": "23"
+    },
+    {
+      "date": "2025-01-02",
+      "firstPrize": "730209",
+      "lastTwoDigits": "51"
+    },
+    {
+      "date": "2024-12-16",
+      "firstPrize": "097863",
+      "lastTwoDigits": "21"
+    },
+    {
+      "date": "2024-12-01",
+      "firstPrize": "669843",
+      "lastTwoDigits": "61"
+    },
+    {
+      "date": "2024-11-16",
+      "firstPrize": "187221",
+      "lastTwoDigits": "38"
+    },
+    {
+      "date": "2024-11-01",
+      "firstPrize": "536044",
+      "lastTwoDigits": "32"
+    },
+    {
+      "date": "2024-10-16",
+      "firstPrize": "482962",
+      "lastTwoDigits": "00"
+    },
+    {
+      "date": "2024-10-01",
+      "firstPrize": "718665",
+      "lastTwoDigits": "59"
+    },
+    {
+      "date": "2024-09-16",
+      "firstPrize": "608662",
+      "lastTwoDigits": "37"
+    },
+    {
+      "date": "2024-09-01",
+      "firstPrize": "199606",
+      "lastTwoDigits": "94"
+    },
+    {
+      "date": "2024-08-16",
+      "firstPrize": "095867",
+      "lastTwoDigits": "28"
+    },
+    {
+      "date": "2024-08-01",
+      "firstPrize": "407041",
+      "lastTwoDigits": "46"
+    },
+    {
+      "date": "2024-07-16",
+      "firstPrize": "367336",
+      "lastTwoDigits": "21"
+    },
+    {
+      "date": "2024-07-01",
+      "firstPrize": "434503",
+      "lastTwoDigits": "89"
+    },
+    {
+      "date": "2024-06-16",
+      "firstPrize": "518504",
+      "lastTwoDigits": "31"
+    },
+    {
+      "date": "2024-06-01",
+      "firstPrize": "530593",
+      "lastTwoDigits": "42"
+    },
+    {
+      "date": "2024-05-16",
+      "firstPrize": "205690",
+      "lastTwoDigits": "60"
+    },
+    {
+      "date": "2024-05-02",
+      "firstPrize": "980116",
+      "lastTwoDigits": "17"
+    },
+    {
+      "date": "2024-04-16",
+      "firstPrize": "943598",
+      "lastTwoDigits": "79"
+    },
+    {
+      "date": "2024-04-01",
+      "firstPrize": "803481",
+      "lastTwoDigits": "90"
+    },
+    {
+      "date": "2024-03-16",
+      "firstPrize": "997626",
+      "lastTwoDigits": "78"
+    },
+    {
+      "date": "2024-03-01",
+      "firstPrize": "253603",
+      "lastTwoDigits": "79"
+    },
+    {
+      "date": "2024-02-16",
+      "firstPrize": "941395",
+      "lastTwoDigits": "43"
+    },
+    {
+      "date": "2024-02-01",
+      "firstPrize": "607063",
+      "lastTwoDigits": "09"
+    },
+    {
+      "date": "2024-01-17",
+      "firstPrize": "105979",
+      "lastTwoDigits": "61"
+    },
+    {
+      "date": "2023-12-30",
+      "firstPrize": "625544",
+      "lastTwoDigits": "89"
+    },
+    {
+      "date": "2023-12-16",
+      "firstPrize": "356757",
+      "lastTwoDigits": "85"
+    },
+    {
+      "date": "2023-12-01",
+      "firstPrize": "251097",
+      "lastTwoDigits": "91"
+    },
+    {
+      "date": "2023-11-16",
+      "firstPrize": "557990",
+      "lastTwoDigits": "14"
+    },
+    {
+      "date": "2023-11-01",
+      "firstPrize": "743951",
+      "lastTwoDigits": "63"
+    },
+    {
+      "date": "2023-10-16",
+      "firstPrize": "931446",
+      "lastTwoDigits": "44"
+    },
+    {
+      "date": "2023-10-01",
+      "firstPrize": "727202",
+      "lastTwoDigits": "66"
+    },
+    {
+      "date": "2023-09-16",
+      "firstPrize": "320812",
+      "lastTwoDigits": "46"
+    },
+    {
+      "date": "2023-09-01",
+      "firstPrize": "915478",
+      "lastTwoDigits": "91"
+    },
+    {
+      "date": "2023-08-16",
+      "firstPrize": "471782",
+      "lastTwoDigits": "67"
+    },
+    {
+      "date": "2023-07-31",
+      "firstPrize": "260453",
+      "lastTwoDigits": "11"
+    },
+    {
+      "date": "2023-07-16",
+      "firstPrize": "169530",
+      "lastTwoDigits": "62"
+    },
+    {
+      "date": "2023-07-01",
+      "firstPrize": "922605",
+      "lastTwoDigits": "16"
+    },
+    {
+      "date": "2023-06-16",
+      "firstPrize": "264872",
+      "lastTwoDigits": "30"
+    },
+    {
+      "date": "2023-06-01",
+      "firstPrize": "125272",
+      "lastTwoDigits": "09"
+    },
+    {
+      "date": "2023-05-16",
+      "firstPrize": "132903",
+      "lastTwoDigits": "99"
+    },
+    {
+      "date": "2023-05-02",
+      "firstPrize": "843019",
+      "lastTwoDigits": "65"
+    },
+    {
+      "date": "2023-04-16",
+      "firstPrize": "984906",
+      "lastTwoDigits": "71"
+    },
+    {
+      "date": "2023-04-01",
+      "firstPrize": "087907",
+      "lastTwoDigits": "99"
+    },
+    {
+      "date": "2023-03-16",
+      "firstPrize": "025873",
+      "lastTwoDigits": "73"
+    },
+    {
+      "date": "2023-03-01",
+      "firstPrize": "417652",
+      "lastTwoDigits": "55"
+    },
+    {
+      "date": "2023-02-16",
+      "firstPrize": "590417",
+      "lastTwoDigits": "80"
+    },
+    {
+      "date": "2023-02-01",
+      "firstPrize": "297411",
+      "lastTwoDigits": "92"
+    },
+    {
+      "date": "2023-01-17",
+      "firstPrize": "812519",
+      "lastTwoDigits": "47"
+    },
+    {
+      "date": "2022-12-30",
+      "firstPrize": "157196",
+      "lastTwoDigits": "58"
+    },
+    {
+      "date": "2022-12-16",
+      "firstPrize": "845093",
+      "lastTwoDigits": "14"
+    },
+    {
+      "date": "2022-12-01",
+      "firstPrize": "375805",
+      "lastTwoDigits": "08"
+    },
+    {
+      "date": "2022-11-16",
+      "firstPrize": "121789",
+      "lastTwoDigits": "64"
+    },
+    {
+      "date": "2022-11-01",
+      "firstPrize": "913106",
+      "lastTwoDigits": "70"
+    },
+    {
+      "date": "2022-10-16",
+      "firstPrize": "613106",
+      "lastTwoDigits": "15"
+    },
+    {
+      "date": "2022-10-01",
+      "firstPrize": "484669",
+      "lastTwoDigits": "50"
+    },
+    {
+      "date": "2022-09-16",
+      "firstPrize": "943703",
+      "lastTwoDigits": "75"
+    },
+    {
+      "date": "2022-09-01",
+      "firstPrize": "929332",
+      "lastTwoDigits": "83"
+    },
+    {
+      "date": "2022-08-16",
+      "firstPrize": "331583",
+      "lastTwoDigits": "42"
+    },
+    {
+      "date": "2022-08-01",
+      "firstPrize": "436594",
+      "lastTwoDigits": "14"
+    },
+    {
+      "date": "2022-07-16",
+      "firstPrize": "620405",
+      "lastTwoDigits": "53"
+    },
+    {
+      "date": "2022-07-01",
+      "firstPrize": "981417",
+      "lastTwoDigits": "61"
+    },
+    {
+      "date": "2022-06-16",
+      "firstPrize": "361807",
+      "lastTwoDigits": "92"
+    },
+    {
+      "date": "2022-06-01",
+      "firstPrize": "319196",
+      "lastTwoDigits": "02"
+    },
+    {
+      "date": "2022-05-16",
+      "firstPrize": "155012",
+      "lastTwoDigits": "06"
+    },
+    {
+      "date": "2022-05-02",
+      "firstPrize": "658642",
+      "lastTwoDigits": "09"
+    },
+    {
+      "date": "2022-04-16",
+      "firstPrize": "395919",
+      "lastTwoDigits": "58"
+    },
+    {
+      "date": "2022-04-01",
+      "firstPrize": "970618",
+      "lastTwoDigits": "10"
+    },
+    {
+      "date": "2022-03-16",
+      "firstPrize": "737867",
+      "lastTwoDigits": "03"
+    },
+    {
+      "date": "2022-03-01",
+      "firstPrize": "061905",
+      "lastTwoDigits": "07"
+    },
+    {
+      "date": "2022-02-17",
+      "firstPrize": "098597",
+      "lastTwoDigits": "57"
+    },
+    {
+      "date": "2022-02-01",
+      "firstPrize": "944308",
+      "lastTwoDigits": "30"
+    },
+    {
+      "date": "2022-01-17",
+      "firstPrize": "880159",
+      "lastTwoDigits": "92"
+    },
+    {
+      "date": "2021-12-30",
+      "firstPrize": "819068",
+      "lastTwoDigits": "36"
+    },
+    {
+      "date": "2021-12-16",
+      "firstPrize": "639235",
+      "lastTwoDigits": "83"
+    },
+    {
+      "date": "2021-12-01",
+      "firstPrize": "077258",
+      "lastTwoDigits": "82"
+    },
+    {
+      "date": "2021-11-16",
+      "firstPrize": "032761",
+      "lastTwoDigits": "57"
+    },
+    {
+      "date": "2021-11-01",
+      "firstPrize": "045037",
+      "lastTwoDigits": "95"
+    },
+    {
+      "date": "2021-10-16",
+      "firstPrize": "386372",
+      "lastTwoDigits": "38"
+    },
+    {
+      "date": "2021-10-01",
+      "firstPrize": "578171",
+      "lastTwoDigits": "83"
+    },
+    {
+      "date": "2021-09-16",
+      "firstPrize": "070935",
+      "lastTwoDigits": "90"
+    },
+    {
+      "date": "2021-09-01",
+      "firstPrize": "114475",
+      "lastTwoDigits": "79"
+    },
+    {
+      "date": "2021-08-16",
+      "firstPrize": "046750",
+      "lastTwoDigits": "23"
+    },
+    {
+      "date": "2021-08-01",
+      "firstPrize": "910261",
+      "lastTwoDigits": "69"
+    },
+    {
+      "date": "2021-07-16",
+      "firstPrize": "556725",
+      "lastTwoDigits": "70"
+    },
+    {
+      "date": "2021-07-01",
+      "firstPrize": "713517",
+      "lastTwoDigits": "29"
+    },
+    {
+      "date": "2021-06-16",
+      "firstPrize": "691861",
+      "lastTwoDigits": "17"
+    },
+    {
+      "date": "2021-06-01",
+      "firstPrize": "292972",
+      "lastTwoDigits": "45"
+    },
+    {
+      "date": "2021-05-16",
+      "firstPrize": "684579",
+      "lastTwoDigits": "14"
+    },
+    {
+      "date": "2021-05-02",
+      "firstPrize": "501272",
+      "lastTwoDigits": "18"
+    },
+    {
+      "date": "2021-04-16",
+      "firstPrize": "100787",
+      "lastTwoDigits": "56"
+    },
+    {
+      "date": "2021-04-01",
+      "firstPrize": "472270",
+      "lastTwoDigits": "05"
+    },
+    {
+      "date": "2021-03-16",
+      "firstPrize": "890422",
+      "lastTwoDigits": "19"
+    },
+    {
+      "date": "2021-03-01",
+      "firstPrize": "835538",
+      "lastTwoDigits": "73"
+    },
+    {
+      "date": "2021-02-16",
+      "firstPrize": "424603",
+      "lastTwoDigits": "39"
+    },
+    {
+      "date": "2021-02-01",
+      "firstPrize": "912307",
+      "lastTwoDigits": "97"
+    },
+    {
+      "date": "2021-01-17",
+      "firstPrize": "384395",
+      "lastTwoDigits": "15"
+    },
+    {
+      "date": "2020-12-30",
+      "firstPrize": "803628",
+      "lastTwoDigits": "19"
+    },
+    {
+      "date": "2020-12-16",
+      "firstPrize": "201303",
+      "lastTwoDigits": "70"
+    },
+    {
+      "date": "2020-12-01",
+      "firstPrize": "100994",
+      "lastTwoDigits": "84"
+    },
+    {
+      "date": "2020-11-16",
+      "firstPrize": "972661",
+      "lastTwoDigits": "46"
+    },
+    {
+      "date": "2020-11-01",
+      "firstPrize": "506404",
+      "lastTwoDigits": "40"
+    },
+    {
+      "date": "2020-10-16",
+      "firstPrize": "286051",
+      "lastTwoDigits": "38"
+    },
+    {
+      "date": "2020-10-01",
+      "firstPrize": "837893",
+      "lastTwoDigits": "59"
+    },
+    {
+      "date": "2020-09-16",
+      "firstPrize": "244083",
+      "lastTwoDigits": "57"
+    },
+    {
+      "date": "2020-09-01",
+      "firstPrize": "999997",
+      "lastTwoDigits": "98"
+    },
+    {
+      "date": "2020-08-16",
+      "firstPrize": "945811",
+      "lastTwoDigits": "88"
+    },
+    {
+      "date": "2020-08-01",
+      "firstPrize": "569391",
+      "lastTwoDigits": "92"
+    },
+    {
+      "date": "2020-07-16",
+      "firstPrize": "873286",
+      "lastTwoDigits": "53"
+    },
+    {
+      "date": "2020-07-01",
+      "firstPrize": "347258",
+      "lastTwoDigits": "83"
+    },
+    {
+      "date": "2020-06-16",
+      "firstPrize": "516967",
+      "lastTwoDigits": "64"
+    },
+    {
+      "date": "2020-06-01",
+      "firstPrize": "831567",
+      "lastTwoDigits": "24"
+    },
+    {
+      "date": "2020-04-01",
+      "firstPrize": "051095",
+      "lastTwoDigits": "22"
+    },
+    {
+      "date": "2020-03-16",
+      "firstPrize": "503446",
+      "lastTwoDigits": "77"
+    },
+    {
+      "date": "2020-03-01",
+      "firstPrize": "875938",
+      "lastTwoDigits": "98"
+    },
+    {
+      "date": "2020-02-16",
+      "firstPrize": "781403",
+      "lastTwoDigits": "94"
+    },
+    {
+      "date": "2020-02-01",
+      "firstPrize": "589227",
+      "lastTwoDigits": "06"
+    },
+    {
+      "date": "2020-01-17",
+      "firstPrize": "491774",
+      "lastTwoDigits": "68"
+    },
+    {
+      "date": "2019-12-30",
+      "firstPrize": "510541",
+      "lastTwoDigits": "81"
+    },
+    {
+      "date": "2019-12-16",
+      "firstPrize": "529924",
+      "lastTwoDigits": "97"
+    },
+    {
+      "date": "2019-12-01",
+      "firstPrize": "453522",
+      "lastTwoDigits": "81"
+    },
+    {
+      "date": "2019-11-16",
+      "firstPrize": "017223",
+      "lastTwoDigits": "32"
+    },
+    {
+      "date": "2019-11-01",
+      "firstPrize": "967375",
+      "lastTwoDigits": "79"
+    },
+    {
+      "date": "2019-10-16",
+      "firstPrize": "812564",
+      "lastTwoDigits": "15"
+    },
+    {
+      "date": "2019-10-01",
+      "firstPrize": "691197",
+      "lastTwoDigits": "59"
+    },
+    {
+      "date": "2019-09-16",
+      "firstPrize": "340388",
+      "lastTwoDigits": "85"
+    },
+    {
+      "date": "2019-09-01",
+      "firstPrize": "798787",
+      "lastTwoDigits": "20"
+    },
+    {
+      "date": "2019-08-16",
+      "firstPrize": "775476",
+      "lastTwoDigits": "89"
+    },
+    {
+      "date": "2019-08-01",
+      "firstPrize": "387006",
+      "lastTwoDigits": "58"
+    },
+    {
+      "date": "2019-07-15",
+      "firstPrize": "369765",
+      "lastTwoDigits": "88"
+    },
+    {
+      "date": "2019-07-01",
+      "firstPrize": "943647",
+      "lastTwoDigits": "86"
+    },
+    {
+      "date": "2019-06-16",
+      "firstPrize": "174055",
+      "lastTwoDigits": "29"
+    },
+    {
+      "date": "2019-06-01",
+      "firstPrize": "516461",
+      "lastTwoDigits": "46"
+    },
+    {
+      "date": "2019-05-16",
+      "firstPrize": "962526",
+      "lastTwoDigits": "71"
+    },
+    {
+      "date": "2019-05-02",
+      "firstPrize": "061324",
+      "lastTwoDigits": "25"
+    },
+    {
+      "date": "2019-04-16",
+      "firstPrize": "570331",
+      "lastTwoDigits": "23"
+    },
+    {
+      "date": "2019-04-01",
+      "firstPrize": "109767",
+      "lastTwoDigits": "52"
+    },
+    {
+      "date": "2019-03-16",
+      "firstPrize": "724628",
+      "lastTwoDigits": "64"
+    },
+    {
+      "date": "2019-03-01",
+      "firstPrize": "345650",
+      "lastTwoDigits": "65"
+    },
+    {
+      "date": "2019-02-16",
+      "firstPrize": "074824",
+      "lastTwoDigits": "56"
+    },
+    {
+      "date": "2019-02-01",
+      "firstPrize": "967134",
+      "lastTwoDigits": "04"
+    },
+    {
+      "date": "2019-01-17",
+      "firstPrize": "197079",
+      "lastTwoDigits": "65"
+    },
+    {
+      "date": "2018-12-30",
+      "firstPrize": "735867",
+      "lastTwoDigits": "02"
+    },
+    {
+      "date": "2018-12-16",
+      "firstPrize": "356564",
+      "lastTwoDigits": "62"
+    },
+    {
+      "date": "2018-12-01",
+      "firstPrize": "021840",
+      "lastTwoDigits": "67"
+    },
+    {
+      "date": "2018-11-16",
+      "firstPrize": "989903",
+      "lastTwoDigits": "16"
+    },
+    {
+      "date": "2018-11-01",
+      "firstPrize": "149840",
+      "lastTwoDigits": "58"
+    },
+    {
+      "date": "2018-10-16",
+      "firstPrize": "200515",
+      "lastTwoDigits": "93"
+    },
+    {
+      "date": "2018-10-01",
+      "firstPrize": "452643",
+      "lastTwoDigits": "99"
+    },
+    {
+      "date": "2018-09-16",
+      "firstPrize": "149760",
+      "lastTwoDigits": "79"
+    },
+    {
+      "date": "2018-09-01",
+      "firstPrize": "734510",
+      "lastTwoDigits": "26"
+    },
+    {
+      "date": "2018-08-16",
+      "firstPrize": "586117",
+      "lastTwoDigits": "10"
+    },
+    {
+      "date": "2018-08-01",
+      "firstPrize": "386602",
+      "lastTwoDigits": "78"
+    },
+    {
+      "date": "2018-07-16",
+      "firstPrize": "596324",
+      "lastTwoDigits": "27"
+    },
+    {
+      "date": "2018-07-01",
+      "firstPrize": "963623",
+      "lastTwoDigits": "83"
+    },
+    {
+      "date": "2018-06-16",
+      "firstPrize": "223131",
+      "lastTwoDigits": "46"
+    },
+    {
+      "date": "2018-06-01",
+      "firstPrize": "988117",
+      "lastTwoDigits": "95"
+    },
+    {
+      "date": "2018-05-16",
+      "firstPrize": "075629",
+      "lastTwoDigits": "20"
+    },
+    {
+      "date": "2018-05-02",
+      "firstPrize": "248038",
+      "lastTwoDigits": "85"
+    },
+    {
+      "date": "2018-04-16",
+      "firstPrize": "739229",
+      "lastTwoDigits": "60"
+    },
+    {
+      "date": "2018-04-01",
+      "firstPrize": "412073",
+      "lastTwoDigits": "85"
+    },
+    {
+      "date": "2018-03-16",
+      "firstPrize": "218559",
+      "lastTwoDigits": "82"
+    },
+    {
+      "date": "2018-03-02",
+      "firstPrize": "759415",
+      "lastTwoDigits": "29"
+    },
+    {
+      "date": "2018-02-16",
+      "firstPrize": "309915",
+      "lastTwoDigits": "39"
+    },
+    {
+      "date": "2018-02-01",
+      "firstPrize": "026853",
+      "lastTwoDigits": "31"
+    },
+    {
+      "date": "2018-01-17",
+      "firstPrize": "203823",
+      "lastTwoDigits": "50"
+    },
+    {
+      "date": "2017-12-30",
+      "firstPrize": "911234",
+      "lastTwoDigits": "98"
+    },
+    {
+      "date": "2017-12-16",
+      "firstPrize": "955596",
+      "lastTwoDigits": "89"
+    },
+    {
+      "date": "2017-12-01",
+      "firstPrize": "451005",
+      "lastTwoDigits": "33"
+    },
+    {
+      "date": "2017-11-16",
+      "firstPrize": "292391",
+      "lastTwoDigits": "98"
+    },
+    {
+      "date": "2017-11-01",
+      "firstPrize": "533726",
+      "lastTwoDigits": "85"
+    },
+    {
+      "date": "2017-10-16",
+      "firstPrize": "413494",
+      "lastTwoDigits": "86"
+    },
+    {
+      "date": "2017-10-01",
+      "firstPrize": "880714",
+      "lastTwoDigits": "52"
+    },
+    {
+      "date": "2017-09-16",
+      "firstPrize": "170143",
+      "lastTwoDigits": "71"
+    },
+    {
+      "date": "2017-09-01",
+      "firstPrize": "143224",
+      "lastTwoDigits": "65"
+    },
+    {
+      "date": "2017-08-16",
+      "firstPrize": "715431",
+      "lastTwoDigits": "37"
+    },
+    {
+      "date": "2017-08-01",
+      "firstPrize": "756519",
+      "lastTwoDigits": "36"
+    },
+    {
+      "date": "2017-07-16",
+      "firstPrize": "820327",
+      "lastTwoDigits": "87"
+    },
+    {
+      "date": "2017-07-01",
+      "firstPrize": "112360",
+      "lastTwoDigits": "26"
+    },
+    {
+      "date": "2017-06-16",
+      "firstPrize": "943142",
+      "lastTwoDigits": "47"
+    },
+    {
+      "date": "2017-06-01",
+      "firstPrize": "053630",
+      "lastTwoDigits": "61"
+    },
+    {
+      "date": "2017-05-16",
+      "firstPrize": "454891",
+      "lastTwoDigits": "53"
+    },
+    {
+      "date": "2017-05-02",
+      "firstPrize": "008656",
+      "lastTwoDigits": "35"
+    },
+    {
+      "date": "2017-04-16",
+      "firstPrize": "816729",
+      "lastTwoDigits": "40"
+    },
+    {
+      "date": "2017-04-01",
+      "firstPrize": "392785",
+      "lastTwoDigits": "80"
+    },
+    {
+      "date": "2017-03-16",
+      "firstPrize": "273863",
+      "lastTwoDigits": "92"
+    },
+    {
+      "date": "2017-03-01",
+      "firstPrize": "978453",
+      "lastTwoDigits": "78"
+    },
+    {
+      "date": "2017-02-16",
+      "firstPrize": "229116",
+      "lastTwoDigits": "14"
+    },
+    {
+      "date": "2017-02-01",
+      "firstPrize": "054672",
+      "lastTwoDigits": "42"
+    },
+    {
+      "date": "2017-01-17",
+      "firstPrize": "145157",
+      "lastTwoDigits": "25"
+    },
+    {
+      "date": "2016-12-30",
+      "firstPrize": "377712",
+      "lastTwoDigits": "46"
+    },
+    {
+      "date": "2016-12-16",
+      "firstPrize": "435286",
+      "lastTwoDigits": "35"
+    },
+    {
+      "date": "2016-12-01",
+      "firstPrize": "086069",
+      "lastTwoDigits": "77"
+    },
+    {
+      "date": "2016-11-16",
+      "firstPrize": "858383",
+      "lastTwoDigits": "44"
+    },
+    {
+      "date": "2016-11-01",
+      "firstPrize": "785438",
+      "lastTwoDigits": "86"
+    },
+    {
+      "date": "2016-10-16",
+      "firstPrize": "571947",
+      "lastTwoDigits": "98"
+    },
+    {
+      "date": "2016-10-01",
+      "firstPrize": "887102",
+      "lastTwoDigits": "33"
+    },
+    {
+      "date": "2016-09-16",
+      "firstPrize": "240650",
+      "lastTwoDigits": "42"
+    },
+    {
+      "date": "2016-09-01",
+      "firstPrize": "638684",
+      "lastTwoDigits": "62"
+    },
+    {
+      "date": "2016-08-16",
+      "firstPrize": "254004",
+      "lastTwoDigits": "33"
+    },
+    {
+      "date": "2016-08-01",
+      "firstPrize": "272932",
+      "lastTwoDigits": "57"
+    },
+    {
+      "date": "2016-07-16",
+      "firstPrize": "449764",
+      "lastTwoDigits": "55"
+    },
+    {
+      "date": "2016-07-01",
+      "firstPrize": "082460",
+      "lastTwoDigits": "53"
+    },
+    {
+      "date": "2016-06-16",
+      "firstPrize": "073816",
+      "lastTwoDigits": "79"
+    },
+    {
+      "date": "2016-06-01",
+      "firstPrize": "511825",
+      "lastTwoDigits": "14"
+    },
+    {
+      "date": "2016-05-16",
+      "firstPrize": "141737",
+      "lastTwoDigits": "98"
+    },
+    {
+      "date": "2016-05-02",
+      "firstPrize": "399459",
+      "lastTwoDigits": "02"
+    },
+    {
+      "date": "2016-04-16",
+      "firstPrize": "221609",
+      "lastTwoDigits": "87"
+    },
+    {
+      "date": "2016-04-01",
+      "firstPrize": "066720",
+      "lastTwoDigits": "92"
+    },
+    {
+      "date": "2016-03-16",
+      "firstPrize": "134918",
+      "lastTwoDigits": "32"
+    },
+    {
+      "date": "2016-03-01",
+      "firstPrize": "439686",
+      "lastTwoDigits": "06"
+    },
+    {
+      "date": "2016-02-16",
+      "firstPrize": "356364",
+      "lastTwoDigits": "98"
+    },
+    {
+      "date": "2016-02-01",
+      "firstPrize": "927800",
+      "lastTwoDigits": "09"
+    },
+    {
+      "date": "2016-01-17",
+      "firstPrize": "304371",
+      "lastTwoDigits": "50"
+    },
+    {
+      "date": "2015-12-30",
+      "firstPrize": "008217",
+      "lastTwoDigits": "02"
+    },
+    {
+      "date": "2015-12-17",
+      "firstPrize": "930255",
+      "lastTwoDigits": "08"
+    },
+    {
+      "date": "2015-12-01",
+      "firstPrize": "915350",
+      "lastTwoDigits": "78"
+    },
+    {
+      "date": "2015-11-16",
+      "firstPrize": "795283",
+      "lastTwoDigits": "03"
+    },
+    {
+      "date": "2015-11-01",
+      "firstPrize": "361211",
+      "lastTwoDigits": "45"
+    },
+    {
+      "date": "2015-10-16",
+      "firstPrize": "968630",
+      "lastTwoDigits": "62"
+    },
+    {
+      "date": "2015-10-01",
+      "firstPrize": "594825",
+      "lastTwoDigits": "07"
+    },
+    {
+      "date": "2015-09-16",
+      "firstPrize": "743148",
+      "lastTwoDigits": "06"
+    },
+    {
+      "date": "2015-09-01",
+      "firstPrize": "021094",
+      "lastTwoDigits": "89"
+    },
+    {
+      "date": "2015-08-16",
+      "firstPrize": "033363",
+      "lastTwoDigits": "40"
+    },
+    {
+      "date": "2015-08-01",
+      "firstPrize": "518677",
+      "lastTwoDigits": "53"
+    },
+    {
+      "date": "2015-07-16",
+      "firstPrize": "121507",
+      "lastTwoDigits": "49"
+    },
+    {
+      "date": "2015-07-01",
+      "firstPrize": "759049",
+      "lastTwoDigits": "26"
+    },
+    {
+      "date": "2015-06-16",
+      "firstPrize": "644742",
+      "lastTwoDigits": "05"
+    },
+    {
+      "date": "2015-06-02",
+      "firstPrize": "388881",
+      "lastTwoDigits": "65"
+    },
+    {
+      "date": "2015-05-16",
+      "firstPrize": "011421",
+      "lastTwoDigits": "38"
+    },
+    {
+      "date": "2015-05-02",
+      "firstPrize": "543466",
+      "lastTwoDigits": "30"
+    },
+    {
+      "date": "2015-04-16",
+      "firstPrize": "506260",
+      "lastTwoDigits": "38"
+    },
+    {
+      "date": "2015-04-01",
+      "firstPrize": "605704",
+      "lastTwoDigits": "70"
+    },
+    {
+      "date": "2015-03-16",
+      "firstPrize": "048151",
+      "lastTwoDigits": "92"
+    },
+    {
+      "date": "2015-03-01",
+      "firstPrize": "240237",
+      "lastTwoDigits": "34"
+    },
+    {
+      "date": "2015-02-16",
+      "firstPrize": "001864",
+      "lastTwoDigits": "90"
+    },
+    {
+      "date": "2015-02-01",
+      "firstPrize": "155537",
+      "lastTwoDigits": "79"
+    },
+    {
+      "date": "2015-01-16",
+      "firstPrize": "244351",
+      "lastTwoDigits": "74"
+    },
+    {
+      "date": "2014-12-30",
+      "firstPrize": "461704",
+      "lastTwoDigits": "57"
+    },
+    {
+      "date": "2014-12-16",
+      "firstPrize": "948354",
+      "lastTwoDigits": "90"
+    },
+    {
+      "date": "2014-12-01",
+      "firstPrize": "480449",
+      "lastTwoDigits": "11"
+    },
+    {
+      "date": "2014-11-16",
+      "firstPrize": "479804",
+      "lastTwoDigits": "25"
+    },
+    {
+      "date": "2014-11-01",
+      "firstPrize": "206608",
+      "lastTwoDigits": "44"
+    },
+    {
+      "date": "2014-10-16",
+      "firstPrize": "656409",
+      "lastTwoDigits": "94"
+    },
+    {
+      "date": "2014-10-01",
+      "firstPrize": "375615",
+      "lastTwoDigits": "44"
+    },
+    {
+      "date": "2014-09-16",
+      "firstPrize": "772269",
+      "lastTwoDigits": "35"
+    },
+    {
+      "date": "2014-09-01",
+      "firstPrize": "856763",
+      "lastTwoDigits": "22"
+    },
+    {
+      "date": "2014-08-16",
+      "firstPrize": "662842",
+      "lastTwoDigits": "91"
+    },
+    {
+      "date": "2014-08-01",
+      "firstPrize": "766391",
+      "lastTwoDigits": "82"
+    },
+    {
+      "date": "2014-07-16",
+      "firstPrize": "468728",
+      "lastTwoDigits": "45"
+    },
+    {
+      "date": "2014-07-01",
+      "firstPrize": "378477",
+      "lastTwoDigits": "39"
+    },
+    {
+      "date": "2014-06-16",
+      "firstPrize": "673920",
+      "lastTwoDigits": "95"
+    },
+    {
+      "date": "2014-06-01",
+      "firstPrize": "781198",
+      "lastTwoDigits": "18"
+    },
+    {
+      "date": "2014-05-16",
+      "firstPrize": "087523",
+      "lastTwoDigits": "20"
+    },
+    {
+      "date": "2014-05-02",
+      "firstPrize": "103297",
+      "lastTwoDigits": "52"
+    },
+    {
+      "date": "2014-04-16",
+      "firstPrize": "153406",
+      "lastTwoDigits": "26"
+    },
+    {
+      "date": "2014-04-01",
+      "firstPrize": "028866",
+      "lastTwoDigits": "95"
+    },
+    {
+      "date": "2014-03-16",
+      "firstPrize": "531404",
+      "lastTwoDigits": "79"
+    },
+    {
+      "date": "2014-03-01",
+      "firstPrize": "906318",
+      "lastTwoDigits": "35"
+    },
+    {
+      "date": "2014-02-16",
+      "firstPrize": "384245",
+      "lastTwoDigits": "01"
+    },
+    {
+      "date": "2014-02-01",
+      "firstPrize": "180149",
+      "lastTwoDigits": "95"
+    },
+    {
+      "date": "2014-01-16",
+      "firstPrize": "306902",
+      "lastTwoDigits": "52"
+    },
+    {
+      "date": "2013-12-30",
+      "firstPrize": "561072",
+      "lastTwoDigits": "48"
+    },
+    {
+      "date": "2013-12-16",
+      "firstPrize": "341767",
+      "lastTwoDigits": "79"
+    },
+    {
+      "date": "2013-12-01",
+      "firstPrize": "168795",
+      "lastTwoDigits": "27"
+    },
+    {
+      "date": "2013-11-16",
+      "firstPrize": "806925",
+      "lastTwoDigits": "28"
+    },
+    {
+      "date": "2013-11-01",
+      "firstPrize": "739804",
+      "lastTwoDigits": "47"
+    },
+    {
+      "date": "2013-10-16",
+      "firstPrize": "963289",
+      "lastTwoDigits": "60"
+    },
+    {
+      "date": "2013-10-01",
+      "firstPrize": "647882",
+      "lastTwoDigits": "14"
+    },
+    {
+      "date": "2013-09-16",
+      "firstPrize": "562684",
+      "lastTwoDigits": "63"
+    },
+    {
+      "date": "2013-09-01",
+      "firstPrize": "548123",
+      "lastTwoDigits": "05"
+    },
+    {
+      "date": "2013-08-16",
+      "firstPrize": "321327",
+      "lastTwoDigits": "20"
+    },
+    {
+      "date": "2013-08-01",
+      "firstPrize": "356435",
+      "lastTwoDigits": "82"
+    },
+    {
+      "date": "2013-07-16",
+      "firstPrize": "566996",
+      "lastTwoDigits": "86"
+    },
+    {
+      "date": "2013-07-01",
+      "firstPrize": "646905",
+      "lastTwoDigits": "51"
+    },
+    {
+      "date": "2013-06-16",
+      "firstPrize": "289673",
+      "lastTwoDigits": "69"
+    },
+    {
+      "date": "2013-06-01",
+      "firstPrize": "935489",
+      "lastTwoDigits": "90"
+    },
+    {
+      "date": "2013-05-16",
+      "firstPrize": "687125",
+      "lastTwoDigits": "56"
+    },
+    {
+      "date": "2013-05-02",
+      "firstPrize": "603458",
+      "lastTwoDigits": "07"
+    },
+    {
+      "date": "2013-04-16",
+      "firstPrize": "843846",
+      "lastTwoDigits": "86"
+    },
+    {
+      "date": "2013-04-01",
+      "firstPrize": "571688",
+      "lastTwoDigits": "53"
+    },
+    {
+      "date": "2013-03-16",
+      "firstPrize": "968433",
+      "lastTwoDigits": "52"
+    },
+    {
+      "date": "2013-03-01",
+      "firstPrize": "976241",
+      "lastTwoDigits": "37"
+    },
+    {
+      "date": "2013-02-16",
+      "firstPrize": "368257",
+      "lastTwoDigits": "09"
+    },
+    {
+      "date": "2013-02-01",
+      "firstPrize": "565566",
+      "lastTwoDigits": "66"
+    },
+    {
+      "date": "2013-01-16",
+      "firstPrize": "820981",
+      "lastTwoDigits": "08"
+    },
+    {
+      "date": "2012-12-30",
+      "firstPrize": "302358",
+      "lastTwoDigits": "00"
+    },
+    {
+      "date": "2012-12-16",
+      "firstPrize": "529524",
+      "lastTwoDigits": "72"
+    },
+    {
+      "date": "2012-12-01",
+      "firstPrize": "110443",
+      "lastTwoDigits": "43"
+    },
+    {
+      "date": "2012-11-16",
+      "firstPrize": "639500",
+      "lastTwoDigits": "15"
+    },
+    {
+      "date": "2012-11-01",
+      "firstPrize": "524694",
+      "lastTwoDigits": "63"
+    },
+    {
+      "date": "2012-10-16",
+      "firstPrize": "281343",
+      "lastTwoDigits": "28"
+    },
+    {
+      "date": "2012-10-01",
+      "firstPrize": "124025",
+      "lastTwoDigits": "58"
+    },
+    {
+      "date": "2012-09-16",
+      "firstPrize": "540143",
+      "lastTwoDigits": "79"
+    },
+    {
+      "date": "2012-09-01",
+      "firstPrize": "329997",
+      "lastTwoDigits": "07"
+    },
+    {
+      "date": "2012-08-16",
+      "firstPrize": "683877",
+      "lastTwoDigits": "28"
+    },
+    {
+      "date": "2012-08-01",
+      "firstPrize": "895590",
+      "lastTwoDigits": "50"
+    },
+    {
+      "date": "2012-07-16",
+      "firstPrize": "904050",
+      "lastTwoDigits": "11"
+    },
+    {
+      "date": "2012-07-01",
+      "firstPrize": "915900",
+      "lastTwoDigits": "60"
+    },
+    {
+      "date": "2012-06-16",
+      "firstPrize": "159373",
+      "lastTwoDigits": "51"
+    },
+    {
+      "date": "2012-06-01",
+      "firstPrize": "882727",
+      "lastTwoDigits": "38"
+    },
+    {
+      "date": "2012-05-16",
+      "firstPrize": "814418",
+      "lastTwoDigits": "31"
+    },
+    {
+      "date": "2012-05-02",
+      "firstPrize": "889501",
+      "lastTwoDigits": "29"
+    },
+    {
+      "date": "2012-04-16",
+      "firstPrize": "583470",
+      "lastTwoDigits": "62"
+    },
+    {
+      "date": "2012-04-01",
+      "firstPrize": "257562",
+      "lastTwoDigits": "69"
+    },
+    {
+      "date": "2012-03-16",
+      "firstPrize": "607064",
+      "lastTwoDigits": "08"
+    },
+    {
+      "date": "2012-03-01",
+      "firstPrize": "222518",
+      "lastTwoDigits": "79"
+    },
+    {
+      "date": "2012-02-16",
+      "firstPrize": "648684",
+      "lastTwoDigits": "18"
+    },
+    {
+      "date": "2012-02-01",
+      "firstPrize": "320605",
+      "lastTwoDigits": "32"
+    },
+    {
+      "date": "2012-01-16",
+      "firstPrize": "451445",
+      "lastTwoDigits": "81"
+    },
+    {
+      "date": "2011-12-30",
+      "firstPrize": "526402",
+      "lastTwoDigits": "65"
+    },
+    {
+      "date": "2011-12-16",
+      "firstPrize": "884178",
+      "lastTwoDigits": "21"
+    },
+    {
+      "date": "2011-12-01",
+      "firstPrize": "408147",
+      "lastTwoDigits": "02"
+    },
+    {
+      "date": "2011-11-16",
+      "firstPrize": "997777",
+      "lastTwoDigits": "57"
+    },
+    {
+      "date": "2011-11-01",
+      "firstPrize": "805540",
+      "lastTwoDigits": "54"
+    },
+    {
+      "date": "2011-10-16",
+      "firstPrize": "955756",
+      "lastTwoDigits": "83"
+    },
+    {
+      "date": "2011-10-01",
+      "firstPrize": "511052",
+      "lastTwoDigits": "15"
+    },
+    {
+      "date": "2011-09-16",
+      "firstPrize": "731198",
+      "lastTwoDigits": "28"
+    },
+    {
+      "date": "2011-09-01",
+      "firstPrize": "724533",
+      "lastTwoDigits": "85"
+    },
+    {
+      "date": "2011-08-16",
+      "firstPrize": "536960",
+      "lastTwoDigits": "62"
+    },
+    {
+      "date": "2011-08-01",
+      "firstPrize": "218756",
+      "lastTwoDigits": "12"
+    },
+    {
+      "date": "2011-07-16",
+      "firstPrize": "116556",
+      "lastTwoDigits": "12"
+    },
+    {
+      "date": "2011-07-01",
+      "firstPrize": "622953",
+      "lastTwoDigits": "51"
+    },
+    {
+      "date": "2011-06-16",
+      "firstPrize": "351276",
+      "lastTwoDigits": "88"
+    },
+    {
+      "date": "2011-06-01",
+      "firstPrize": "562370",
+      "lastTwoDigits": "46"
+    },
+    {
+      "date": "2011-05-16",
+      "firstPrize": "406417",
+      "lastTwoDigits": "05"
+    },
+    {
+      "date": "2011-05-02",
+      "firstPrize": "054136",
+      "lastTwoDigits": "85"
+    },
+    {
+      "date": "2011-04-16",
+      "firstPrize": "825988",
+      "lastTwoDigits": "44"
+    },
+    {
+      "date": "2011-04-01",
+      "firstPrize": "814931",
+      "lastTwoDigits": "01"
+    },
+    {
+      "date": "2011-03-16",
+      "firstPrize": "593331",
+      "lastTwoDigits": "96"
+    },
+    {
+      "date": "2011-03-01",
+      "firstPrize": "656037",
+      "lastTwoDigits": "97"
+    },
+    {
+      "date": "2011-02-16",
+      "firstPrize": "481746",
+      "lastTwoDigits": "27"
+    },
+    {
+      "date": "2011-02-01",
+      "firstPrize": "610089",
+      "lastTwoDigits": "55"
+    },
+    {
+      "date": "2011-01-16",
+      "firstPrize": "281062",
+      "lastTwoDigits": "23"
+    },
+    {
+      "date": "2010-12-30",
+      "firstPrize": "884112",
+      "lastTwoDigits": "49"
+    },
+    {
+      "date": "2010-12-16",
+      "firstPrize": "334380",
+      "lastTwoDigits": "24"
+    },
+    {
+      "date": "2010-12-01",
+      "firstPrize": "181752",
+      "lastTwoDigits": "09"
+    },
+    {
+      "date": "2010-11-16",
+      "firstPrize": "813993",
+      "lastTwoDigits": "43"
+    },
+    {
+      "date": "2010-11-01",
+      "firstPrize": "191100",
+      "lastTwoDigits": "59"
+    },
+    {
+      "date": "2010-10-16",
+      "firstPrize": "621377",
+      "lastTwoDigits": "42"
+    },
+    {
+      "date": "2010-10-01",
+      "firstPrize": "488372",
+      "lastTwoDigits": "02"
+    },
+    {
+      "date": "2010-09-16",
+      "firstPrize": "017422",
+      "lastTwoDigits": "66"
+    },
+    {
+      "date": "2010-09-01",
+      "firstPrize": "354656",
+      "lastTwoDigits": "11"
+    },
+    {
+      "date": "2010-08-16",
+      "firstPrize": "911097",
+      "lastTwoDigits": "64"
+    },
+    {
+      "date": "2010-08-01",
+      "firstPrize": "210008",
+      "lastTwoDigits": "10"
+    },
+    {
+      "date": "2010-07-16",
+      "firstPrize": "180387",
+      "lastTwoDigits": "34"
+    },
+    {
+      "date": "2010-07-01",
+      "firstPrize": "480239",
+      "lastTwoDigits": "68"
+    },
+    {
+      "date": "2010-06-16",
+      "firstPrize": "500104",
+      "lastTwoDigits": "73"
+    },
+    {
+      "date": "2010-06-01",
+      "firstPrize": "444874",
+      "lastTwoDigits": "81"
+    },
+    {
+      "date": "2010-05-16",
+      "firstPrize": "480012",
+      "lastTwoDigits": "12"
+    },
+    {
+      "date": "2010-05-02",
+      "firstPrize": "360371",
+      "lastTwoDigits": "06"
+    },
+    {
+      "date": "2010-04-16",
+      "firstPrize": "211743",
+      "lastTwoDigits": "96"
+    },
+    {
+      "date": "2010-04-01",
+      "firstPrize": "959517",
+      "lastTwoDigits": "22"
+    },
+    {
+      "date": "2010-03-16",
+      "firstPrize": "364222",
+      "lastTwoDigits": "97"
+    },
+    {
+      "date": "2010-03-01",
+      "firstPrize": "215227",
+      "lastTwoDigits": "97"
+    },
+    {
+      "date": "2010-02-16",
+      "firstPrize": "133707",
+      "lastTwoDigits": "03"
+    },
+    {
+      "date": "2010-02-01",
+      "firstPrize": "186312",
+      "lastTwoDigits": "14"
+    },
+    {
+      "date": "2010-01-16",
+      "firstPrize": "073577",
+      "lastTwoDigits": "67"
+    },
+    {
+      "date": "2009-12-30",
+      "firstPrize": "994304",
+      "lastTwoDigits": "87"
+    },
+    {
+      "date": "2009-12-16",
+      "firstPrize": "685141",
+      "lastTwoDigits": "05"
+    },
+    {
+      "date": "2009-12-01",
+      "firstPrize": "776980",
+      "lastTwoDigits": "59"
+    },
+    {
+      "date": "2009-11-16",
+      "firstPrize": "055986",
+      "lastTwoDigits": "58"
+    },
+    {
+      "date": "2009-11-01",
+      "firstPrize": "689140",
+      "lastTwoDigits": "85"
+    },
+    {
+      "date": "2009-10-16",
+      "firstPrize": "258487",
+      "lastTwoDigits": "00"
+    },
+    {
+      "date": "2009-10-01",
+      "firstPrize": "169387",
+      "lastTwoDigits": "06"
+    },
+    {
+      "date": "2009-09-16",
+      "firstPrize": "202912",
+      "lastTwoDigits": "48"
+    },
+    {
+      "date": "2009-09-01",
+      "firstPrize": "015865",
+      "lastTwoDigits": "32"
+    },
+    {
+      "date": "2009-08-16",
+      "firstPrize": "462933",
+      "lastTwoDigits": "96"
+    },
+    {
+      "date": "2009-08-01",
+      "firstPrize": "154986",
+      "lastTwoDigits": "92"
+    },
+    {
+      "date": "2009-07-16",
+      "firstPrize": "000816",
+      "lastTwoDigits": "94"
+    },
+    {
+      "date": "2009-07-01",
+      "firstPrize": "207542",
+      "lastTwoDigits": "66"
+    },
+    {
+      "date": "2009-06-16",
+      "firstPrize": "930456",
+      "lastTwoDigits": "15"
+    },
+    {
+      "date": "2009-06-01",
+      "firstPrize": "777661",
+      "lastTwoDigits": "26"
+    },
+    {
+      "date": "2009-05-16",
+      "firstPrize": "111411",
+      "lastTwoDigits": "54"
+    },
+    {
+      "date": "2009-05-02",
+      "firstPrize": "294452",
+      "lastTwoDigits": "11"
+    },
+    {
+      "date": "2009-04-16",
+      "firstPrize": "368415",
+      "lastTwoDigits": "33"
+    },
+    {
+      "date": "2009-04-01",
+      "firstPrize": "816578",
+      "lastTwoDigits": "50"
+    },
+    {
+      "date": "2009-03-16",
+      "firstPrize": "268812",
+      "lastTwoDigits": "36"
+    },
+    {
+      "date": "2009-03-01",
+      "firstPrize": "553091",
+      "lastTwoDigits": "67"
+    },
+    {
+      "date": "2009-02-16",
+      "firstPrize": "038730",
+      "lastTwoDigits": "93"
+    },
+    {
+      "date": "2009-02-01",
+      "firstPrize": "534533",
+      "lastTwoDigits": "69"
+    },
+    {
+      "date": "2009-01-16",
+      "firstPrize": "743212",
+      "lastTwoDigits": "25"
+    },
+    {
+      "date": "2008-12-30",
+      "firstPrize": "218596",
+      "lastTwoDigits": "22"
+    },
+    {
+      "date": "2008-12-16",
+      "firstPrize": "074114",
+      "lastTwoDigits": "25"
+    },
+    {
+      "date": "2008-12-01",
+      "firstPrize": "205434",
+      "lastTwoDigits": "05"
+    },
+    {
+      "date": "2008-11-16",
+      "firstPrize": "002612",
+      "lastTwoDigits": "20"
+    },
+    {
+      "date": "2008-11-01",
+      "firstPrize": "272028",
+      "lastTwoDigits": "76"
+    },
+    {
+      "date": "2008-10-16",
+      "firstPrize": "431277",
+      "lastTwoDigits": "98"
+    },
+    {
+      "date": "2008-10-01",
+      "firstPrize": "882911",
+      "lastTwoDigits": "67"
+    },
+    {
+      "date": "2008-09-16",
+      "firstPrize": "012377",
+      "lastTwoDigits": "56"
+    },
+    {
+      "date": "2008-09-01",
+      "firstPrize": "695993",
+      "lastTwoDigits": "09"
+    },
+    {
+      "date": "2008-08-16",
+      "firstPrize": "380377",
+      "lastTwoDigits": "36"
+    },
+    {
+      "date": "2008-08-01",
+      "firstPrize": "850348",
+      "lastTwoDigits": "11"
+    },
+    {
+      "date": "2008-07-16",
+      "firstPrize": "257374",
+      "lastTwoDigits": "41"
+    },
+    {
+      "date": "2008-07-01",
+      "firstPrize": "943671",
+      "lastTwoDigits": "50"
+    },
+    {
+      "date": "2008-06-16",
+      "firstPrize": "729111",
+      "lastTwoDigits": "75"
+    },
+    {
+      "date": "2008-06-01",
+      "firstPrize": "414875",
+      "lastTwoDigits": "35"
+    },
+    {
+      "date": "2008-05-16",
+      "firstPrize": "329231",
+      "lastTwoDigits": "69"
+    },
+    {
+      "date": "2008-05-02",
+      "firstPrize": "453011",
+      "lastTwoDigits": "62"
+    },
+    {
+      "date": "2008-04-16",
+      "firstPrize": "982800",
+      "lastTwoDigits": "64"
+    },
+    {
+      "date": "2008-04-01",
+      "firstPrize": "012653",
+      "lastTwoDigits": "71"
+    },
+    {
+      "date": "2008-03-16",
+      "firstPrize": "074946",
+      "lastTwoDigits": "33"
+    },
+    {
+      "date": "2008-03-01",
+      "firstPrize": "936685",
+      "lastTwoDigits": "05"
+    },
+    {
+      "date": "2008-02-16",
+      "firstPrize": "137054",
+      "lastTwoDigits": "80"
+    },
+    {
+      "date": "2008-02-01",
+      "firstPrize": "212684",
+      "lastTwoDigits": "26"
+    },
+    {
+      "date": "2008-01-16",
+      "firstPrize": "556010",
+      "lastTwoDigits": "81"
+    },
+    {
+      "date": "2007-12-30",
+      "firstPrize": "595411",
+      "lastTwoDigits": "81"
+    },
+    {
+      "date": "2007-12-16",
+      "firstPrize": "513501",
+      "lastTwoDigits": "96"
+    },
+    {
+      "date": "2007-12-01",
+      "firstPrize": "113410",
+      "lastTwoDigits": "18"
+    },
+    {
+      "date": "2007-11-16",
+      "firstPrize": "562481",
+      "lastTwoDigits": "73"
+    },
+    {
+      "date": "2007-11-01",
+      "firstPrize": "927907",
+      "lastTwoDigits": "88"
+    },
+    {
+      "date": "2007-10-16",
+      "firstPrize": "032988",
+      "lastTwoDigits": "48"
+    },
+    {
+      "date": "2007-10-01",
+      "firstPrize": "430667",
+      "lastTwoDigits": "76"
+    },
+    {
+      "date": "2007-09-16",
+      "firstPrize": "499336",
+      "lastTwoDigits": "45"
+    },
+    {
+      "date": "2007-09-01",
+      "firstPrize": "331810",
+      "lastTwoDigits": "69"
+    },
+    {
+      "date": "2007-08-16",
+      "firstPrize": "476207",
+      "lastTwoDigits": "93"
+    },
+    {
+      "date": "2007-08-01",
+      "firstPrize": "429924",
+      "lastTwoDigits": "29"
+    },
+    {
+      "date": "2007-07-16",
+      "firstPrize": "527384",
+      "lastTwoDigits": "77"
+    },
+    {
+      "date": "2007-07-01",
+      "firstPrize": "565151",
+      "lastTwoDigits": "76"
+    },
+    {
+      "date": "2007-06-16",
+      "firstPrize": "393194",
+      "lastTwoDigits": "41"
+    },
+    {
+      "date": "2007-06-01",
+      "firstPrize": "836393",
+      "lastTwoDigits": "05"
+    },
+    {
+      "date": "2007-05-16",
+      "firstPrize": "232897",
+      "lastTwoDigits": "25"
+    },
+    {
+      "date": "2007-05-02",
+      "firstPrize": "430374",
+      "lastTwoDigits": "81"
+    },
+    {
+      "date": "2007-04-16",
+      "firstPrize": "405105",
+      "lastTwoDigits": "63"
+    },
+    {
+      "date": "2007-04-01",
+      "firstPrize": "622780",
+      "lastTwoDigits": "93"
+    },
+    {
+      "date": "2007-03-16",
+      "firstPrize": "876763",
+      "lastTwoDigits": "85"
+    },
+    {
+      "date": "2007-03-01",
+      "firstPrize": "742425",
+      "lastTwoDigits": "61"
+    },
+    {
+      "date": "2007-02-16",
+      "firstPrize": "277859",
+      "lastTwoDigits": "95"
+    },
+    {
+      "date": "2007-02-01",
+      "firstPrize": "769925",
+      "lastTwoDigits": "56"
+    },
+    {
+      "date": "2007-01-16",
+      "firstPrize": "838739",
+      "lastTwoDigits": "55"
+    },
+    {
+      "date": "2006-12-30",
+      "firstPrize": "778584",
+      "lastTwoDigits": "07"
+    },
+    {
+      "date": "2006-12-16",
+      "firstPrize": "147977",
+      "lastTwoDigits": "45"
+    },
+    {
+      "date": "2006-12-01",
+      "firstPrize": "270052",
+      "lastTwoDigits": "12"
+    },
+    {
+      "date": "2006-11-16",
+      "firstPrize": "562856",
+      "lastTwoDigits": "94"
+    },
+    {
+      "date": "2006-11-01",
+      "firstPrize": "910957",
+      "lastTwoDigits": "29"
+    },
+    {
+      "date": "2006-10-16",
+      "firstPrize": "264825",
+      "lastTwoDigits": "58"
+    },
+    {
+      "date": "2006-10-01",
+      "firstPrize": "952335",
+      "lastTwoDigits": "92"
+    },
+    {
+      "date": "2006-09-16",
+      "firstPrize": "217948",
+      "lastTwoDigits": "41"
+    },
+    {
+      "date": "2006-09-01",
+      "firstPrize": "381761",
+      "lastTwoDigits": "44"
+    },
+    {
+      "date": "2006-08-16",
+      "firstPrize": "977486",
+      "lastTwoDigits": "91"
+    },
+    {
+      "date": "2006-08-01",
+      "firstPrize": "238654",
+      "lastTwoDigits": "88"
+    },
+    {
+      "date": "2006-07-16",
+      "firstPrize": "512434",
+      "lastTwoDigits": "48"
+    },
+    {
+      "date": "2006-07-01",
+      "firstPrize": "952890",
+      "lastTwoDigits": "65"
+    },
+    {
+      "date": "2006-06-16",
+      "firstPrize": "100935",
+      "lastTwoDigits": "17"
+    },
+    {
+      "date": "2006-06-01",
+      "firstPrize": "810850",
+      "lastTwoDigits": "99"
+    },
+    {
+      "date": "2006-05-16",
+      "firstPrize": "100344",
+      "lastTwoDigits": "71"
+    },
+    {
+      "date": "2006-05-02",
+      "firstPrize": "024554",
+      "lastTwoDigits": "27"
+    },
+    {
+      "date": "2006-04-16",
+      "firstPrize": "038564",
+      "lastTwoDigits": "49"
+    },
+    {
+      "date": "2006-04-01",
+      "firstPrize": "738365",
+      "lastTwoDigits": "95"
+    },
+    {
+      "date": "2006-03-16",
+      "firstPrize": "936177",
+      "lastTwoDigits": "30"
+    },
+    {
+      "date": "2006-03-01",
+      "firstPrize": "582473",
+      "lastTwoDigits": "43"
+    },
+    {
+      "date": "2006-02-16",
+      "firstPrize": "317009",
+      "lastTwoDigits": "66"
+    },
+    {
+      "date": "2006-02-01",
+      "firstPrize": "412729",
+      "lastTwoDigits": "87"
+    },
+    {
+      "date": "2006-01-16",
+      "firstPrize": "432747",
+      "lastTwoDigits": "79"
+    },
+    {
+      "date": "2005-12-30",
+      "firstPrize": "492955",
+      "lastTwoDigits": "94"
+    },
+    {
+      "date": "2005-12-16",
+      "firstPrize": "449565",
+      "lastTwoDigits": "86"
+    },
+    {
+      "date": "2005-12-01",
+      "firstPrize": "388551",
+      "lastTwoDigits": "17"
+    },
+    {
+      "date": "2005-11-16",
+      "firstPrize": "742518",
+      "lastTwoDigits": "80"
+    },
+    {
+      "date": "2005-11-01",
+      "firstPrize": "970577",
+      "lastTwoDigits": "98"
+    },
+    {
+      "date": "2005-10-16",
+      "firstPrize": "041072",
+      "lastTwoDigits": "71"
+    },
+    {
+      "date": "2005-10-01",
+      "firstPrize": "766482",
+      "lastTwoDigits": "24"
+    },
+    {
+      "date": "2005-09-16",
+      "firstPrize": "214768",
+      "lastTwoDigits": "10"
+    },
+    {
+      "date": "2005-09-01",
+      "firstPrize": "316933",
+      "lastTwoDigits": "17"
+    },
+    {
+      "date": "2005-08-16",
+      "firstPrize": "475560",
+      "lastTwoDigits": "68"
+    },
+    {
+      "date": "2005-08-01",
+      "firstPrize": "961633",
+      "lastTwoDigits": "26"
+    },
+    {
+      "date": "2005-07-16",
+      "firstPrize": "477452",
+      "lastTwoDigits": "13"
+    },
+    {
+      "date": "2005-07-01",
+      "firstPrize": "009554",
+      "lastTwoDigits": "87"
+    },
+    {
+      "date": "2005-06-16",
+      "firstPrize": "793070",
+      "lastTwoDigits": "44"
+    },
+    {
+      "date": "2005-06-01",
+      "firstPrize": "176893",
+      "lastTwoDigits": "35"
+    },
+    {
+      "date": "2005-05-16",
+      "firstPrize": "867134",
+      "lastTwoDigits": "97"
+    },
+    {
+      "date": "2005-05-02",
+      "firstPrize": "772467",
+      "lastTwoDigits": "43"
+    },
+    {
+      "date": "2005-04-16",
+      "firstPrize": "119327",
+      "lastTwoDigits": "10"
+    },
+    {
+      "date": "2005-04-01",
+      "firstPrize": "815753",
+      "lastTwoDigits": "69"
+    },
+    {
+      "date": "2005-03-16",
+      "firstPrize": "196345",
+      "lastTwoDigits": "03"
+    },
+    {
+      "date": "2005-03-01",
+      "firstPrize": "800751",
+      "lastTwoDigits": "93"
+    },
+    {
+      "date": "2005-02-16",
+      "firstPrize": "816422",
+      "lastTwoDigits": "53"
+    },
+    {
+      "date": "2005-02-01",
+      "firstPrize": "540054",
+      "lastTwoDigits": "34"
+    },
+    {
+      "date": "2005-01-16",
+      "firstPrize": "335022",
+      "lastTwoDigits": "08"
+    },
+    {
+      "date": "2004-12-30",
+      "firstPrize": "168858",
+      "lastTwoDigits": "28"
+    },
+    {
+      "date": "2004-12-16",
+      "firstPrize": "479372",
+      "lastTwoDigits": "17"
+    },
+    {
+      "date": "2004-12-01",
+      "firstPrize": "504658",
+      "lastTwoDigits": "69"
+    },
+    {
+      "date": "2004-11-16",
+      "firstPrize": "754622",
+      "lastTwoDigits": "64"
+    },
+    {
+      "date": "2004-11-01",
+      "firstPrize": "185966",
+      "lastTwoDigits": "23"
+    },
+    {
+      "date": "2004-10-16",
+      "firstPrize": "355858",
+      "lastTwoDigits": "62"
+    },
+    {
+      "date": "2004-10-01",
+      "firstPrize": "110866",
+      "lastTwoDigits": "66"
+    },
+    {
+      "date": "2004-09-16",
+      "firstPrize": "923373",
+      "lastTwoDigits": "59"
+    },
+    {
+      "date": "2004-09-01",
+      "firstPrize": "096597",
+      "lastTwoDigits": "70"
+    },
+    {
+      "date": "2004-08-16",
+      "firstPrize": "335921",
+      "lastTwoDigits": "59"
+    },
+    {
+      "date": "2004-08-02",
+      "firstPrize": "868990",
+      "lastTwoDigits": "45"
+    },
+    {
+      "date": "2004-07-16",
+      "firstPrize": "205588",
+      "lastTwoDigits": "25"
+    },
+    {
+      "date": "2004-07-01",
+      "firstPrize": "312471",
+      "lastTwoDigits": "66"
+    },
+    {
+      "date": "2004-06-16",
+      "firstPrize": "208713",
+      "lastTwoDigits": "87"
+    },
+    {
+      "date": "2004-06-01",
+      "firstPrize": "614144",
+      "lastTwoDigits": "72"
+    },
+    {
+      "date": "2004-05-16",
+      "firstPrize": "589207",
+      "lastTwoDigits": "13"
+    },
+    {
+      "date": "2004-05-02",
+      "firstPrize": "653403",
+      "lastTwoDigits": "91"
+    },
+    {
+      "date": "2004-04-16",
+      "firstPrize": "705832",
+      "lastTwoDigits": "12"
+    },
+    {
+      "date": "2004-04-01",
+      "firstPrize": "196391",
+      "lastTwoDigits": "62"
+    },
+    {
+      "date": "2004-03-16",
+      "firstPrize": "615366",
+      "lastTwoDigits": "69"
+    },
+    {
+      "date": "2004-03-01",
+      "firstPrize": "697483",
+      "lastTwoDigits": "50"
+    },
+    {
+      "date": "2004-02-16",
+      "firstPrize": "698002",
+      "lastTwoDigits": "00"
+    },
+    {
+      "date": "2004-02-01",
+      "firstPrize": "216822",
+      "lastTwoDigits": "77"
+    },
+    {
+      "date": "2004-01-16",
+      "firstPrize": "731342",
+      "lastTwoDigits": "96"
+    },
+    {
+      "date": "2003-12-30",
+      "firstPrize": "739447",
+      "lastTwoDigits": "64"
+    },
+    {
+      "date": "2003-12-16",
+      "firstPrize": "177947",
+      "lastTwoDigits": "87"
+    },
+    {
+      "date": "2003-12-01",
+      "firstPrize": "991307",
+      "lastTwoDigits": "78"
+    },
+    {
+      "date": "2003-11-16",
+      "firstPrize": "238511",
+      "lastTwoDigits": "68"
+    },
+    {
+      "date": "2003-11-01",
+      "firstPrize": "941438",
+      "lastTwoDigits": "47"
+    },
+    {
+      "date": "2003-10-16",
+      "firstPrize": "305500",
+      "lastTwoDigits": "03"
+    },
+    {
+      "date": "2003-10-01",
+      "firstPrize": "912040",
+      "lastTwoDigits": "43"
+    },
+    {
+      "date": "2003-09-16",
+      "firstPrize": "600589",
+      "lastTwoDigits": "53"
+    },
+    {
+      "date": "2003-09-01",
+      "firstPrize": "187813",
+      "lastTwoDigits": "92"
+    },
+    {
+      "date": "2003-08-16",
+      "firstPrize": "354771",
+      "lastTwoDigits": "00"
+    },
+    {
+      "date": "2003-08-01",
+      "firstPrize": "766098",
+      "lastTwoDigits": "91"
+    },
+    {
+      "date": "2003-07-16",
+      "firstPrize": "679545",
+      "lastTwoDigits": "75"
+    },
+    {
+      "date": "2003-07-01",
+      "firstPrize": "461414",
+      "lastTwoDigits": "91"
+    },
+    {
+      "date": "2003-06-16",
+      "firstPrize": "389872",
+      "lastTwoDigits": "29"
+    },
+    {
+      "date": "2003-06-01",
+      "firstPrize": "766066",
+      "lastTwoDigits": "36"
+    },
+    {
+      "date": "2003-05-16",
+      "firstPrize": "552784",
+      "lastTwoDigits": "20"
+    },
+    {
+      "date": "2003-05-02",
+      "firstPrize": "135603",
+      "lastTwoDigits": "12"
+    },
+    {
+      "date": "2003-04-16",
+      "firstPrize": "892525",
+      "lastTwoDigits": "21"
+    },
+    {
+      "date": "2003-04-01",
+      "firstPrize": "933164",
+      "lastTwoDigits": "86"
+    },
+    {
+      "date": "2003-03-16",
+      "firstPrize": "653062",
+      "lastTwoDigits": "64"
+    },
+    {
+      "date": "2003-03-01",
+      "firstPrize": "441022",
+      "lastTwoDigits": "42"
+    },
+    {
+      "date": "2003-02-17",
+      "firstPrize": "455578",
+      "lastTwoDigits": "61"
+    },
+    {
+      "date": "2003-02-01",
+      "firstPrize": "456370",
+      "lastTwoDigits": "94"
+    },
+    {
+      "date": "2003-01-16",
+      "firstPrize": "977085",
+      "lastTwoDigits": "06"
+    },
+    {
+      "date": "2002-12-30",
+      "firstPrize": "895196",
+      "lastTwoDigits": "95"
+    },
+    {
+      "date": "2002-12-16",
+      "firstPrize": "019682",
+      "lastTwoDigits": "67"
+    },
+    {
+      "date": "2002-12-01",
+      "firstPrize": "968422",
+      "lastTwoDigits": "37"
+    },
+    {
+      "date": "2002-11-16",
+      "firstPrize": "915344",
+      "lastTwoDigits": "55"
+    },
+    {
+      "date": "2002-11-01",
+      "firstPrize": "505498",
+      "lastTwoDigits": "25"
+    },
+    {
+      "date": "2002-10-16",
+      "firstPrize": "428641",
+      "lastTwoDigits": "51"
+    },
+    {
+      "date": "2002-10-01",
+      "firstPrize": "802505",
+      "lastTwoDigits": "72"
+    },
+    {
+      "date": "2002-09-16",
+      "firstPrize": "156050",
+      "lastTwoDigits": "85"
+    },
+    {
+      "date": "2002-09-01",
+      "firstPrize": "994200",
+      "lastTwoDigits": "51"
+    },
+    {
+      "date": "2002-08-16",
+      "firstPrize": "120108",
+      "lastTwoDigits": "57"
+    },
+    {
+      "date": "2002-08-01",
+      "firstPrize": "493438",
+      "lastTwoDigits": "88"
+    },
+    {
+      "date": "2002-07-16",
+      "firstPrize": "340264",
+      "lastTwoDigits": "69"
+    },
+    {
+      "date": "2002-07-01",
+      "firstPrize": "481447",
+      "lastTwoDigits": "24"
+    },
+    {
+      "date": "2002-06-16",
+      "firstPrize": "073261",
+      "lastTwoDigits": "07"
+    },
+    {
+      "date": "2002-06-01",
+      "firstPrize": "161149",
+      "lastTwoDigits": "02"
+    },
+    {
+      "date": "2002-05-16",
+      "firstPrize": "598714",
+      "lastTwoDigits": "76"
+    },
+    {
+      "date": "2002-05-02",
+      "firstPrize": "590664",
+      "lastTwoDigits": "56"
+    },
+    {
+      "date": "2002-04-16",
+      "firstPrize": "522630",
+      "lastTwoDigits": "37"
+    },
+    {
+      "date": "2002-04-01",
+      "firstPrize": "990543",
+      "lastTwoDigits": "57"
+    },
+    {
+      "date": "2002-03-16",
+      "firstPrize": "659152",
+      "lastTwoDigits": "04"
+    },
+    {
+      "date": "2002-03-01",
+      "firstPrize": "805590",
+      "lastTwoDigits": "55"
+    },
+    {
+      "date": "2002-02-16",
+      "firstPrize": "330853",
+      "lastTwoDigits": "92"
+    },
+    {
+      "date": "2002-02-01",
+      "firstPrize": "633270",
+      "lastTwoDigits": "40"
+    },
+    {
+      "date": "2002-01-16",
+      "firstPrize": "709670",
+      "lastTwoDigits": "14"
+    },
+    {
+      "date": "2001-12-30",
+      "firstPrize": "729367",
+      "lastTwoDigits": "64"
+    },
+    {
+      "date": "2001-12-16",
+      "firstPrize": "224675",
+      "lastTwoDigits": "19"
+    },
+    {
+      "date": "2001-12-01",
+      "firstPrize": "737022",
+      "lastTwoDigits": "49"
+    },
+    {
+      "date": "2001-11-16",
+      "firstPrize": "685706",
+      "lastTwoDigits": "74"
+    },
+    {
+      "date": "2001-11-01",
+      "firstPrize": "683472",
+      "lastTwoDigits": "52"
+    },
+    {
+      "date": "2001-10-16",
+      "firstPrize": "975005",
+      "lastTwoDigits": "48"
+    },
+    {
+      "date": "2001-10-01",
+      "firstPrize": "104154",
+      "lastTwoDigits": "15"
+    },
+    {
+      "date": "2001-09-16",
+      "firstPrize": "616426",
+      "lastTwoDigits": "82"
+    },
+    {
+      "date": "2001-09-01",
+      "firstPrize": "119067",
+      "lastTwoDigits": "14"
+    },
+    {
+      "date": "2001-08-16",
+      "firstPrize": "690135",
+      "lastTwoDigits": "10"
+    },
+    {
+      "date": "2001-08-01",
+      "firstPrize": "180597",
+      "lastTwoDigits": "11"
+    },
+    {
+      "date": "2001-07-16",
+      "firstPrize": "820715",
+      "lastTwoDigits": "50"
+    },
+    {
+      "date": "2001-07-01",
+      "firstPrize": "107987",
+      "lastTwoDigits": "34"
+    },
+    {
+      "date": "2001-06-16",
+      "firstPrize": "762394",
+      "lastTwoDigits": "75"
+    },
+    {
+      "date": "2001-06-01",
+      "firstPrize": "113311",
+      "lastTwoDigits": "80"
+    },
+    {
+      "date": "2001-05-16",
+      "firstPrize": "091982",
+      "lastTwoDigits": "61"
+    },
+    {
+      "date": "2001-05-02",
+      "firstPrize": "205095",
+      "lastTwoDigits": "64"
+    },
+    {
+      "date": "2001-04-16",
+      "firstPrize": "140843",
+      "lastTwoDigits": "28"
+    },
+    {
+      "date": "2001-04-01",
+      "firstPrize": "640998",
+      "lastTwoDigits": "49"
+    },
+    {
+      "date": "2001-03-16",
+      "firstPrize": "633616",
+      "lastTwoDigits": "45"
+    },
+    {
+      "date": "2001-03-01",
+      "firstPrize": "836537",
+      "lastTwoDigits": "85"
+    },
+    {
+      "date": "2001-02-16",
+      "firstPrize": "621267",
+      "lastTwoDigits": "47"
+    },
+    {
+      "date": "2001-02-01",
+      "firstPrize": "454703",
+      "lastTwoDigits": "13"
+    },
+    {
+      "date": "2001-01-16",
+      "firstPrize": "737016",
+      "lastTwoDigits": "36"
+    },
+    {
+      "date": "2000-12-30",
+      "firstPrize": "119451",
+      "lastTwoDigits": "31"
+    },
+    {
+      "date": "2000-12-16",
+      "firstPrize": "969676",
+      "lastTwoDigits": "91"
+    },
+    {
+      "date": "2000-12-01",
+      "firstPrize": "887956",
+      "lastTwoDigits": "56"
+    },
+    {
+      "date": "2000-11-16",
+      "firstPrize": "565311",
+      "lastTwoDigits": "10"
+    },
+    {
+      "date": "2000-11-01",
+      "firstPrize": "093182",
+      "lastTwoDigits": "90"
+    },
+    {
+      "date": "2000-10-16",
+      "firstPrize": "620662",
+      "lastTwoDigits": "39"
+    },
+    {
+      "date": "2000-10-01",
+      "firstPrize": "290582",
+      "lastTwoDigits": "26"
+    },
+    {
+      "date": "2000-09-16",
+      "firstPrize": "046251",
+      "lastTwoDigits": "05"
+    },
+    {
+      "date": "2000-09-01",
+      "firstPrize": "437367",
+      "lastTwoDigits": "52"
+    },
+    {
+      "date": "2000-08-16",
+      "firstPrize": "459013",
+      "lastTwoDigits": "57"
+    },
+    {
+      "date": "2000-08-01",
+      "firstPrize": "267540",
+      "lastTwoDigits": "18"
+    },
+    {
+      "date": "2000-07-16",
+      "firstPrize": "931342",
+      "lastTwoDigits": "43"
+    },
+    {
+      "date": "2000-07-01",
+      "firstPrize": "674071",
+      "lastTwoDigits": "29"
+    },
+    {
+      "date": "2000-06-16",
+      "firstPrize": "825696",
+      "lastTwoDigits": "57"
+    },
+    {
+      "date": "2000-06-01",
+      "firstPrize": "592761",
+      "lastTwoDigits": "16"
+    },
+    {
+      "date": "2000-05-16",
+      "firstPrize": "009315",
+      "lastTwoDigits": "56"
+    },
+    {
+      "date": "2000-05-02",
+      "firstPrize": "070715",
+      "lastTwoDigits": "20"
+    },
+    {
+      "date": "2000-04-16",
+      "firstPrize": "836777",
+      "lastTwoDigits": "63"
+    },
+    {
+      "date": "2000-04-01",
+      "firstPrize": "963948",
+      "lastTwoDigits": "99"
+    },
+    {
+      "date": "2000-03-16",
+      "firstPrize": "164311",
+      "lastTwoDigits": "65"
+    },
+    {
+      "date": "2000-03-01",
+      "firstPrize": "997833",
+      "lastTwoDigits": "63"
+    },
+    {
+      "date": "2000-02-16",
+      "firstPrize": "729816",
+      "lastTwoDigits": "91"
+    },
+    {
+      "date": "2000-02-01",
+      "firstPrize": "530213",
+      "lastTwoDigits": "85"
+    },
+    {
+      "date": "2000-01-16",
+      "firstPrize": "442183",
+      "lastTwoDigits": "82"
+    },
+    {
+      "date": "1999-12-30",
+      "firstPrize": "051108",
+      "lastTwoDigits": "03"
+    },
+    {
+      "date": "1999-12-16",
+      "firstPrize": "139853",
+      "lastTwoDigits": "30"
+    },
+    {
+      "date": "1999-12-01",
+      "firstPrize": "669281",
+      "lastTwoDigits": "79"
+    },
+    {
+      "date": "1999-11-16",
+      "firstPrize": "764354",
+      "lastTwoDigits": "14"
+    },
+    {
+      "date": "1999-11-01",
+      "firstPrize": "561335",
+      "lastTwoDigits": "03"
+    },
+    {
+      "date": "1999-10-16",
+      "firstPrize": "410227",
+      "lastTwoDigits": "28"
+    },
+    {
+      "date": "1999-10-01",
+      "firstPrize": "830676",
+      "lastTwoDigits": "80"
+    },
+    {
+      "date": "1999-09-16",
+      "firstPrize": "807506",
+      "lastTwoDigits": "46"
+    },
+    {
+      "date": "1999-09-01",
+      "firstPrize": "591344",
+      "lastTwoDigits": "33"
+    },
+    {
+      "date": "1999-08-16",
+      "firstPrize": "340998",
+      "lastTwoDigits": "65"
+    },
+    {
+      "date": "1999-08-01",
+      "firstPrize": "056860",
+      "lastTwoDigits": "98"
+    },
+    {
+      "date": "1999-07-16",
+      "firstPrize": "070416",
+      "lastTwoDigits": "03"
+    },
+    {
+      "date": "1999-07-01",
+      "firstPrize": "386441",
+      "lastTwoDigits": "67"
+    },
+    {
+      "date": "1999-06-16",
+      "firstPrize": "278794",
+      "lastTwoDigits": "63"
+    },
+    {
+      "date": "1999-06-01",
+      "firstPrize": "077626",
+      "lastTwoDigits": "08"
+    },
+    {
+      "date": "1999-05-16",
+      "firstPrize": "618818",
+      "lastTwoDigits": "16"
+    },
+    {
+      "date": "1999-05-02",
+      "firstPrize": "691483",
+      "lastTwoDigits": "45"
+    },
+    {
+      "date": "1999-04-16",
+      "firstPrize": "625094",
+      "lastTwoDigits": "35"
+    },
+    {
+      "date": "1999-04-01",
+      "firstPrize": "479957",
+      "lastTwoDigits": "92"
+    },
+    {
+      "date": "1999-03-16",
+      "firstPrize": "577278",
+      "lastTwoDigits": "63"
+    },
+    {
+      "date": "1999-03-02",
+      "firstPrize": "660214",
+      "lastTwoDigits": "58"
+    },
+    {
+      "date": "1999-02-16",
+      "firstPrize": "307213",
+      "lastTwoDigits": "41"
+    },
+    {
+      "date": "1999-02-01",
+      "firstPrize": "342860",
+      "lastTwoDigits": "69"
+    },
+    {
+      "date": "1999-01-16",
+      "firstPrize": "190611",
+      "lastTwoDigits": "13"
+    },
+    {
+      "date": "1998-12-30",
+      "firstPrize": "464147",
+      "lastTwoDigits": "50"
+    },
+    {
+      "date": "1998-12-16",
+      "firstPrize": "181813",
+      "lastTwoDigits": "55"
+    },
+    {
+      "date": "1998-12-01",
+      "firstPrize": "836569",
+      "lastTwoDigits": "58"
+    },
+    {
+      "date": "1998-11-16",
+      "firstPrize": "270744",
+      "lastTwoDigits": "20"
+    },
+    {
+      "date": "1998-11-01",
+      "firstPrize": "920846",
+      "lastTwoDigits": "29"
+    },
+    {
+      "date": "1998-10-16",
+      "firstPrize": "261080",
+      "lastTwoDigits": "74"
+    },
+    {
+      "date": "1998-10-01",
+      "firstPrize": "987844",
+      "lastTwoDigits": "18"
+    },
+    {
+      "date": "1998-09-16",
+      "firstPrize": "065720",
+      "lastTwoDigits": "65"
+    },
+    {
+      "date": "1998-09-01",
+      "firstPrize": "872795",
+      "lastTwoDigits": "96"
+    },
+    {
+      "date": "1998-08-16",
+      "firstPrize": "081784",
+      "lastTwoDigits": "91"
+    },
+    {
+      "date": "1998-08-01",
+      "firstPrize": "748493",
+      "lastTwoDigits": "22"
+    },
+    {
+      "date": "1998-07-16",
+      "firstPrize": "599991",
+      "lastTwoDigits": "52"
+    },
+    {
+      "date": "1998-07-01",
+      "firstPrize": "595123",
+      "lastTwoDigits": "65"
+    },
+    {
+      "date": "1998-06-16",
+      "firstPrize": "858076",
+      "lastTwoDigits": "19"
+    },
+    {
+      "date": "1998-06-01",
+      "firstPrize": "820088",
+      "lastTwoDigits": "67"
+    },
+    {
+      "date": "1998-05-16",
+      "firstPrize": "840043",
+      "lastTwoDigits": "63"
+    },
+    {
+      "date": "1998-05-02",
+      "firstPrize": "663807",
+      "lastTwoDigits": "72"
+    },
+    {
+      "date": "1998-04-16",
+      "firstPrize": "146573",
+      "lastTwoDigits": "17"
+    },
+    {
+      "date": "1998-04-01",
+      "firstPrize": "496930",
+      "lastTwoDigits": "66"
+    },
+    {
+      "date": "1998-03-16",
+      "firstPrize": "572701",
+      "lastTwoDigits": "79"
+    },
+    {
+      "date": "1998-03-01",
+      "firstPrize": "236864",
+      "lastTwoDigits": "74"
+    },
+    {
+      "date": "1998-02-16",
+      "firstPrize": "612897",
+      "lastTwoDigits": "69"
+    },
+    {
+      "date": "1998-02-01",
+      "firstPrize": "665959",
+      "lastTwoDigits": "48"
+    },
+    {
+      "date": "1998-01-16",
+      "firstPrize": "947195",
+      "lastTwoDigits": "34"
+    },
+    {
+      "date": "1997-12-30",
+      "firstPrize": "675704",
+      "lastTwoDigits": "65"
+    },
+    {
+      "date": "1997-12-16",
+      "firstPrize": "294240",
+      "lastTwoDigits": "71"
+    },
+    {
+      "date": "1997-12-01",
+      "firstPrize": "241559",
+      "lastTwoDigits": "86"
+    },
+    {
+      "date": "1997-11-16",
+      "firstPrize": "875462",
+      "lastTwoDigits": "99"
+    },
+    {
+      "date": "1997-11-01",
+      "firstPrize": "974201",
+      "lastTwoDigits": "39"
+    },
+    {
+      "date": "1997-10-16",
+      "firstPrize": "405124",
+      "lastTwoDigits": "98"
+    },
+    {
+      "date": "1997-10-01",
+      "firstPrize": "444413",
+      "lastTwoDigits": "24"
+    },
+    {
+      "date": "1997-09-16",
+      "firstPrize": "527514",
+      "lastTwoDigits": "98"
+    },
+    {
+      "date": "1997-09-01",
+      "firstPrize": "083537",
+      "lastTwoDigits": "59"
+    },
+    {
+      "date": "1997-08-16",
+      "firstPrize": "156967",
+      "lastTwoDigits": "30"
+    },
+    {
+      "date": "1997-08-01",
+      "firstPrize": "054272",
+      "lastTwoDigits": "31"
+    },
+    {
+      "date": "1997-07-16",
+      "firstPrize": "509691",
+      "lastTwoDigits": "67"
+    },
+    {
+      "date": "1997-07-01",
+      "firstPrize": "676573",
+      "lastTwoDigits": "11"
+    },
+    {
+      "date": "1997-06-16",
+      "firstPrize": "537146",
+      "lastTwoDigits": "61"
+    },
+    {
+      "date": "1997-06-01",
+      "firstPrize": "643997",
+      "lastTwoDigits": "24"
+    },
+    {
+      "date": "1997-05-16",
+      "firstPrize": "088067",
+      "lastTwoDigits": "52"
+    },
+    {
+      "date": "1997-05-02",
+      "firstPrize": "388437",
+      "lastTwoDigits": "38"
+    },
+    {
+      "date": "1997-04-16",
+      "firstPrize": "551450",
+      "lastTwoDigits": "92"
+    },
+    {
+      "date": "1997-04-01",
+      "firstPrize": "617629",
+      "lastTwoDigits": "52"
+    },
+    {
+      "date": "1997-03-16",
+      "firstPrize": "100474",
+      "lastTwoDigits": "36"
+    },
+    {
+      "date": "1997-03-01",
+      "firstPrize": "976779",
+      "lastTwoDigits": "98"
+    },
+    {
+      "date": "1997-02-16",
+      "firstPrize": "499884",
+      "lastTwoDigits": "94"
+    },
+    {
+      "date": "1997-02-01",
+      "firstPrize": "750792",
+      "lastTwoDigits": "57"
+    },
+    {
+      "date": "1997-01-16",
+      "firstPrize": "151995",
+      "lastTwoDigits": "47"
+    },
+    {
+      "date": "1996-12-30",
+      "firstPrize": "879454",
+      "lastTwoDigits": "26"
+    },
+    {
+      "date": "1996-12-16",
+      "firstPrize": "593856",
+      "lastTwoDigits": "44"
+    },
+    {
+      "date": "1996-12-01",
+      "firstPrize": "179528",
+      "lastTwoDigits": "66"
+    },
+    {
+      "date": "1996-11-16",
+      "firstPrize": "951088",
+      "lastTwoDigits": "21"
+    },
+    {
+      "date": "1996-11-01",
+      "firstPrize": "512694",
+      "lastTwoDigits": "24"
+    },
+    {
+      "date": "1996-10-16",
+      "firstPrize": "198019",
+      "lastTwoDigits": "18"
+    },
+    {
+      "date": "1996-10-01",
+      "firstPrize": "947788",
+      "lastTwoDigits": "97"
+    },
+    {
+      "date": "1996-09-16",
+      "firstPrize": "814368",
+      "lastTwoDigits": "59"
+    },
+    {
+      "date": "1996-09-01",
+      "firstPrize": "470136",
+      "lastTwoDigits": "02"
+    },
+    {
+      "date": "1996-08-16",
+      "firstPrize": "352768",
+      "lastTwoDigits": "19"
+    },
+    {
+      "date": "1996-08-01",
+      "firstPrize": "151091",
+      "lastTwoDigits": "61"
+    },
+    {
+      "date": "1996-07-16",
+      "firstPrize": "332687",
+      "lastTwoDigits": "91"
+    },
+    {
+      "date": "1996-07-01",
+      "firstPrize": "625379",
+      "lastTwoDigits": "76"
+    },
+    {
+      "date": "1996-06-16",
+      "firstPrize": "318311",
+      "lastTwoDigits": "21"
+    },
+    {
+      "date": "1996-06-01",
+      "firstPrize": "869656",
+      "lastTwoDigits": "81"
+    },
+    {
+      "date": "1996-05-17",
+      "firstPrize": "978140",
+      "lastTwoDigits": "75"
+    },
+    {
+      "date": "1996-05-02",
+      "firstPrize": "247351",
+      "lastTwoDigits": "54"
+    },
+    {
+      "date": "1996-04-16",
+      "firstPrize": "049584",
+      "lastTwoDigits": "77"
+    },
+    {
+      "date": "1996-04-01",
+      "firstPrize": "660765",
+      "lastTwoDigits": "90"
+    },
+    {
+      "date": "1996-03-16",
+      "firstPrize": "019128",
+      "lastTwoDigits": "27"
+    },
+    {
+      "date": "1996-03-01",
+      "firstPrize": "304855",
+      "lastTwoDigits": "72"
+    },
+    {
+      "date": "1996-02-16",
+      "firstPrize": "681455",
+      "lastTwoDigits": "49"
+    },
+    {
+      "date": "1996-02-01",
+      "firstPrize": "256556",
+      "lastTwoDigits": "26"
+    },
+    {
+      "date": "1996-01-16",
+      "firstPrize": "318302",
+      "lastTwoDigits": "21"
+    },
+    {
+      "date": "1995-12-30",
+      "firstPrize": "327686",
+      "lastTwoDigits": "04"
+    },
+    {
+      "date": "1995-12-16",
+      "firstPrize": "952808",
+      "lastTwoDigits": "68"
+    },
+    {
+      "date": "1995-12-01",
+      "firstPrize": "714426",
+      "lastTwoDigits": "74"
+    },
+    {
+      "date": "1995-11-16",
+      "firstPrize": "239422",
+      "lastTwoDigits": "85"
+    },
+    {
+      "date": "1995-11-01",
+      "firstPrize": "282069",
+      "lastTwoDigits": "07"
+    },
+    {
+      "date": "1995-10-16",
+      "firstPrize": "322154",
+      "lastTwoDigits": "86"
+    },
+    {
+      "date": "1995-10-01",
+      "firstPrize": "317092",
+      "lastTwoDigits": "76"
+    },
+    {
+      "date": "1995-09-16",
+      "firstPrize": "876454",
+      "lastTwoDigits": "51"
+    },
+    {
+      "date": "1995-09-01",
+      "firstPrize": "620837",
+      "lastTwoDigits": "83"
+    },
+    {
+      "date": "1995-08-16",
+      "firstPrize": "265333",
+      "lastTwoDigits": "51"
+    },
+    {
+      "date": "1995-08-01",
+      "firstPrize": "464819",
+      "lastTwoDigits": "59"
+    },
+    {
+      "date": "1995-07-16",
+      "firstPrize": "248122",
+      "lastTwoDigits": "96"
+    },
+    {
+      "date": "1995-07-01",
+      "firstPrize": "939901",
+      "lastTwoDigits": "19"
+    },
+    {
+      "date": "1995-06-16",
+      "firstPrize": "046698",
+      "lastTwoDigits": "82"
+    },
+    {
+      "date": "1995-06-01",
+      "firstPrize": "105615",
+      "lastTwoDigits": "17"
+    },
+    {
+      "date": "1995-05-17",
+      "firstPrize": "220381",
+      "lastTwoDigits": "55"
+    },
+    {
+      "date": "1995-05-02",
+      "firstPrize": "504692",
+      "lastTwoDigits": "88"
+    },
+    {
+      "date": "1995-04-16",
+      "firstPrize": "053581",
+      "lastTwoDigits": "99"
+    },
+    {
+      "date": "1995-04-01",
+      "firstPrize": "427039",
+      "lastTwoDigits": "06"
+    },
+    {
+      "date": "1995-03-16",
+      "firstPrize": "646847",
+      "lastTwoDigits": "67"
+    },
+    {
+      "date": "1995-03-01",
+      "firstPrize": "411454",
+      "lastTwoDigits": "71"
+    },
+    {
+      "date": "1995-02-16",
+      "firstPrize": "869070",
+      "lastTwoDigits": "95"
+    },
+    {
+      "date": "1995-02-01",
+      "firstPrize": "198162",
+      "lastTwoDigits": "48"
+    },
+    {
+      "date": "1995-01-16",
+      "firstPrize": "922388",
+      "lastTwoDigits": "40"
+    },
+    {
+      "date": "1994-12-30",
+      "firstPrize": "6284069",
+      "lastTwoDigits": "90"
+    },
+    {
+      "date": "1994-12-16",
+      "firstPrize": "5100040",
+      "lastTwoDigits": "50"
+    },
+    {
+      "date": "1994-12-01",
+      "firstPrize": "6832681",
+      "lastTwoDigits": "02"
+    },
+    {
+      "date": "1994-11-16",
+      "firstPrize": "6095849",
+      "lastTwoDigits": "82"
+    },
+    {
+      "date": "1994-11-01",
+      "firstPrize": "1676779",
+      "lastTwoDigits": "76"
+    },
+    {
+      "date": "1994-10-16",
+      "firstPrize": "7583048",
+      "lastTwoDigits": "79"
+    },
+    {
+      "date": "1994-10-01",
+      "firstPrize": "7128442",
+      "lastTwoDigits": "23"
+    },
+    {
+      "date": "1994-09-16",
+      "firstPrize": "4781931",
+      "lastTwoDigits": "88"
+    },
+    {
+      "date": "1994-09-01",
+      "firstPrize": "6220893",
+      "lastTwoDigits": "67"
+    },
+    {
+      "date": "1994-08-16",
+      "firstPrize": "6504760",
+      "lastTwoDigits": "28"
+    },
+    {
+      "date": "1994-08-01",
+      "firstPrize": "3114057",
+      "lastTwoDigits": "85"
+    },
+    {
+      "date": "1994-07-16",
+      "firstPrize": "5962891",
+      "lastTwoDigits": "74"
+    },
+    {
+      "date": "1994-07-01",
+      "firstPrize": "6568267",
+      "lastTwoDigits": "39"
+    },
+    {
+      "date": "1994-06-16",
+      "firstPrize": "1947355",
+      "lastTwoDigits": "53"
+    },
+    {
+      "date": "1994-06-01",
+      "firstPrize": "3560804",
+      "lastTwoDigits": "17"
+    },
+    {
+      "date": "1994-05-16",
+      "firstPrize": "2071764",
+      "lastTwoDigits": "29"
+    },
+    {
+      "date": "1994-05-02",
+      "firstPrize": "3072877",
+      "lastTwoDigits": "69"
+    },
+    {
+      "date": "1994-04-16",
+      "firstPrize": "7893913",
+      "lastTwoDigits": "21"
+    },
+    {
+      "date": "1994-04-01",
+      "firstPrize": "4269815",
+      "lastTwoDigits": "29"
+    },
+    {
+      "date": "1994-03-16",
+      "firstPrize": "1723336",
+      "lastTwoDigits": "19"
+    },
+    {
+      "date": "1994-03-01",
+      "firstPrize": "3373731",
+      "lastTwoDigits": "41"
+    },
+    {
+      "date": "1994-02-16",
+      "firstPrize": "7679044",
+      "lastTwoDigits": "76"
+    },
+    {
+      "date": "1994-02-01",
+      "firstPrize": "5984685",
+      "lastTwoDigits": "05"
+    },
+    {
+      "date": "1994-01-16",
+      "firstPrize": "4791270",
+      "lastTwoDigits": "23"
+    },
+    {
+      "date": "1993-12-30",
+      "firstPrize": "2669189",
+      "lastTwoDigits": "72"
+    },
+    {
+      "date": "1993-12-16",
+      "firstPrize": "4043500",
+      "lastTwoDigits": "69"
+    },
+    {
+      "date": "1993-12-01",
+      "firstPrize": "3670638",
+      "lastTwoDigits": "98"
+    },
+    {
+      "date": "1993-11-16",
+      "firstPrize": "7515123",
+      "lastTwoDigits": "82"
+    },
+    {
+      "date": "1993-11-01",
+      "firstPrize": "3908940",
+      "lastTwoDigits": "94"
+    },
+    {
+      "date": "1993-10-16",
+      "firstPrize": "7611764",
+      "lastTwoDigits": "58"
+    },
+    {
+      "date": "1993-10-01",
+      "firstPrize": "3415973",
+      "lastTwoDigits": "26"
+    },
+    {
+      "date": "1993-09-16",
+      "firstPrize": "4286755",
+      "lastTwoDigits": "11"
+    },
+    {
+      "date": "1993-09-01",
+      "firstPrize": "2812096",
+      "lastTwoDigits": "00"
+    },
+    {
+      "date": "1993-08-16",
+      "firstPrize": "4088644",
+      "lastTwoDigits": "86"
+    },
+    {
+      "date": "1993-08-01",
+      "firstPrize": "4137744",
+      "lastTwoDigits": "06"
+    },
+    {
+      "date": "1993-07-16",
+      "firstPrize": "5686061",
+      "lastTwoDigits": "21"
+    },
+    {
+      "date": "1993-07-01",
+      "firstPrize": "3820203",
+      "lastTwoDigits": "29"
+    },
+    {
+      "date": "1993-06-16",
+      "firstPrize": "2119871",
+      "lastTwoDigits": "39"
+    },
+    {
+      "date": "1993-06-01",
+      "firstPrize": "3488477",
+      "lastTwoDigits": "61"
+    },
+    {
+      "date": "1993-05-16",
+      "firstPrize": "1633983",
+      "lastTwoDigits": "53"
+    },
+    {
+      "date": "1993-05-02",
+      "firstPrize": "7749508",
+      "lastTwoDigits": "99"
+    },
+    {
+      "date": "1993-04-16",
+      "firstPrize": "5632018",
+      "lastTwoDigits": "09"
+    },
+    {
+      "date": "1993-04-01",
+      "firstPrize": "5825558",
+      "lastTwoDigits": "89"
+    },
+    {
+      "date": "1993-03-16",
+      "firstPrize": "7680699",
+      "lastTwoDigits": "98"
+    },
+    {
+      "date": "1993-03-01",
+      "firstPrize": "4006281",
+      "lastTwoDigits": "19"
+    },
+    {
+      "date": "1993-02-16",
+      "firstPrize": "7549455",
+      "lastTwoDigits": "41"
+    },
+    {
+      "date": "1993-02-01",
+      "firstPrize": "7459337",
+      "lastTwoDigits": "21"
+    },
+    {
+      "date": "1993-01-16",
+      "firstPrize": "5423816",
+      "lastTwoDigits": "25"
+    },
+    {
+      "date": "1992-12-30",
+      "firstPrize": "6662150",
+      "lastTwoDigits": "23"
+    },
+    {
+      "date": "1992-12-16",
+      "firstPrize": "4826531",
+      "lastTwoDigits": "92"
+    },
+    {
+      "date": "1992-12-01",
+      "firstPrize": "7120927",
+      "lastTwoDigits": "65"
+    },
+    {
+      "date": "1992-11-16",
+      "firstPrize": "3685682",
+      "lastTwoDigits": "45"
+    },
+    {
+      "date": "1992-11-01",
+      "firstPrize": "6267821",
+      "lastTwoDigits": "35"
+    },
+    {
+      "date": "1992-10-16",
+      "firstPrize": "3576993",
+      "lastTwoDigits": "79"
+    },
+    {
+      "date": "1992-10-01",
+      "firstPrize": "6379578",
+      "lastTwoDigits": "71"
+    },
+    {
+      "date": "1992-09-16",
+      "firstPrize": "6874108",
+      "lastTwoDigits": "88"
+    },
+    {
+      "date": "1992-09-01",
+      "firstPrize": "1446615",
+      "lastTwoDigits": "68"
+    },
+    {
+      "date": "1992-08-16",
+      "firstPrize": "6234607",
+      "lastTwoDigits": "91"
+    },
+    {
+      "date": "1992-08-01",
+      "firstPrize": "6697778",
+      "lastTwoDigits": "86"
+    },
+    {
+      "date": "1992-07-16",
+      "firstPrize": "7954430",
+      "lastTwoDigits": "87"
+    },
+    {
+      "date": "1992-07-01",
+      "firstPrize": "5119968",
+      "lastTwoDigits": "56"
+    },
+    {
+      "date": "1992-06-16",
+      "firstPrize": "5569432",
+      "lastTwoDigits": "92"
+    },
+    {
+      "date": "1992-06-01",
+      "firstPrize": "5184191",
+      "lastTwoDigits": "29"
+    },
+    {
+      "date": "1992-05-16",
+      "firstPrize": "2827496",
+      "lastTwoDigits": "59"
+    },
+    {
+      "date": "1992-05-02",
+      "firstPrize": "5765397",
+      "lastTwoDigits": "86"
+    },
+    {
+      "date": "1992-04-16",
+      "firstPrize": "2699374",
+      "lastTwoDigits": "10"
+    },
+    {
+      "date": "1992-04-01",
+      "firstPrize": "2244704",
+      "lastTwoDigits": "03"
+    },
+    {
+      "date": "1992-03-16",
+      "firstPrize": "1218353",
+      "lastTwoDigits": "48"
+    },
+    {
+      "date": "1992-03-01",
+      "firstPrize": "7291524",
+      "lastTwoDigits": "60"
+    },
+    {
+      "date": "1992-02-16",
+      "firstPrize": "1868701",
+      "lastTwoDigits": "94"
+    },
+    {
+      "date": "1992-02-01",
+      "firstPrize": "5986924",
+      "lastTwoDigits": "63"
+    },
+    {
+      "date": "1992-01-16",
+      "firstPrize": "1149428",
+      "lastTwoDigits": "18"
+    },
+    {
+      "date": "1991-12-30",
+      "firstPrize": "3208301",
+      "lastTwoDigits": "76"
+    },
+    {
+      "date": "1991-12-16",
+      "firstPrize": "7241436",
+      "lastTwoDigits": "88"
+    },
+    {
+      "date": "1991-12-01",
+      "firstPrize": "1470741",
+      "lastTwoDigits": "05"
+    },
+    {
+      "date": "1991-11-16",
+      "firstPrize": "4373528",
+      "lastTwoDigits": "08"
+    },
+    {
+      "date": "1991-11-01",
+      "firstPrize": "7894285",
+      "lastTwoDigits": "78"
+    },
+    {
+      "date": "1991-10-16",
+      "firstPrize": "2078202",
+      "lastTwoDigits": "38"
+    },
+    {
+      "date": "1991-10-01",
+      "firstPrize": "2730444",
+      "lastTwoDigits": "96"
+    },
+    {
+      "date": "1991-09-16",
+      "firstPrize": "4790449",
+      "lastTwoDigits": "18"
+    },
+    {
+      "date": "1991-09-01",
+      "firstPrize": "6700430",
+      "lastTwoDigits": "49"
+    },
+    {
+      "date": "1991-08-16",
+      "firstPrize": "3746551",
+      "lastTwoDigits": "89"
+    },
+    {
+      "date": "1991-08-01",
+      "firstPrize": "6580541",
+      "lastTwoDigits": "11"
+    },
+    {
+      "date": "1991-07-16",
+      "firstPrize": "1671946",
+      "lastTwoDigits": "62"
+    },
+    {
+      "date": "1991-07-01",
+      "firstPrize": "4441724",
+      "lastTwoDigits": "58"
+    },
+    {
+      "date": "1991-06-16",
+      "firstPrize": "5364632",
+      "lastTwoDigits": "91"
+    },
+    {
+      "date": "1991-06-01",
+      "firstPrize": "2496376",
+      "lastTwoDigits": "77"
+    },
+    {
+      "date": "1991-05-16",
+      "firstPrize": "2532303",
+      "lastTwoDigits": "63"
+    },
+    {
+      "date": "1991-05-02",
+      "firstPrize": "4222124",
+      "lastTwoDigits": "63"
+    },
+    {
+      "date": "1991-04-16",
+      "firstPrize": "4824037",
+      "lastTwoDigits": "57"
+    },
+    {
+      "date": "1991-04-01",
+      "firstPrize": "1606864",
+      "lastTwoDigits": "03"
+    },
+    {
+      "date": "1991-03-16",
+      "firstPrize": "5891641",
+      "lastTwoDigits": "59"
+    },
+    {
+      "date": "1991-03-01",
+      "firstPrize": "4598076",
+      "lastTwoDigits": "72"
+    },
+    {
+      "date": "1991-02-16",
+      "firstPrize": "3223780",
+      "lastTwoDigits": "33"
+    },
+    {
+      "date": "1991-02-01",
+      "firstPrize": "5396496",
+      "lastTwoDigits": "75"
+    },
+    {
+      "date": "1991-01-16",
+      "firstPrize": "5328736",
+      "lastTwoDigits": "29"
+    },
+    {
+      "date": "1990-12-30",
+      "firstPrize": "2190949",
+      "lastTwoDigits": "05"
+    },
+    {
+      "date": "1990-12-16",
+      "firstPrize": "4407799",
+      "lastTwoDigits": "21"
+    },
+    {
+      "date": "1990-12-01",
+      "firstPrize": "4771944",
+      "lastTwoDigits": "88"
+    },
+    {
+      "date": "1990-11-16",
+      "firstPrize": "1226536",
+      "lastTwoDigits": "06"
+    },
+    {
+      "date": "1990-11-01",
+      "firstPrize": "4380230",
+      "lastTwoDigits": "82"
+    },
+    {
+      "date": "1990-10-16",
+      "firstPrize": "5626303",
+      "lastTwoDigits": "56"
+    },
+    {
+      "date": "1990-10-01",
+      "firstPrize": "5738808",
+      "lastTwoDigits": "37"
+    },
+    {
+      "date": "1990-09-16",
+      "firstPrize": "5202390",
+      "lastTwoDigits": "55"
+    },
+    {
+      "date": "1990-09-01",
+      "firstPrize": "1622380",
+      "lastTwoDigits": "83"
+    },
+    {
+      "date": "1990-08-16",
+      "firstPrize": "1671935",
+      "lastTwoDigits": "43"
+    },
+    {
+      "date": "1990-08-01",
+      "firstPrize": "1867185",
+      "lastTwoDigits": "92"
+    },
+    {
+      "date": "1990-07-16",
+      "firstPrize": "3814178",
+      "lastTwoDigits": "11"
+    },
+    {
+      "date": "1990-07-01",
+      "firstPrize": "1076835",
+      "lastTwoDigits": "43"
+    },
+    {
+      "date": "1990-06-16",
+      "firstPrize": "3530344",
+      "lastTwoDigits": "65"
+    },
+    {
+      "date": "1990-06-01",
+      "firstPrize": "2355474",
+      "lastTwoDigits": "72"
+    },
+    {
+      "date": "1990-05-16",
+      "firstPrize": "5071272",
+      "lastTwoDigits": "34"
+    },
+    {
+      "date": "1990-05-02",
+      "firstPrize": "5898868",
+      "lastTwoDigits": "01"
+    },
+    {
+      "date": "1990-04-16",
+      "firstPrize": "5092890",
+      "lastTwoDigits": "84"
+    },
+    {
+      "date": "1990-04-01",
+      "firstPrize": "4734251",
+      "lastTwoDigits": "39"
+    },
+    {
+      "date": "1990-03-16",
+      "firstPrize": "3240205",
+      "lastTwoDigits": "88"
+    },
+    {
+      "date": "1990-03-01",
+      "firstPrize": "4968902",
+      "lastTwoDigits": "15"
+    },
+    {
+      "date": "1990-02-16",
+      "firstPrize": "3732892",
+      "lastTwoDigits": "01"
+    },
+    {
+      "date": "1990-02-01",
+      "firstPrize": "1078496",
+      "lastTwoDigits": "82"
+    },
+    {
+      "date": "1990-01-16",
+      "firstPrize": "3992239",
+      "lastTwoDigits": "97"
+    }
+  ]
+}

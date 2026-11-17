@@ -23,6 +23,15 @@ bun run test     # รัน unit tests รอบเดียว (vitest run)
 bun run test:watch  # รัน tests แบบ watch
 ```
 
+## Deploy (GitHub Pages — อัตโนมัติทั้งการดึงข้อมูลและการเผยแพร่)
+
+เว็บถูกเผยแพร่ที่ `https://t5ive.github.io/lpa/` ผ่าน workflow [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml):
+
+- **push สู่ main** → test + build + deploy ทันที (เทสไม่ผ่าน = ไม่ deploy)
+- **วันที่ 2 และ 17 ของทุกเดือน เวลา 19:00 น. ไทย** (12:00 UTC) → รัน `bun run fetch` ดึงงวดใหม่จาก myhora ถ้ามีงวดใหม่ `github-actions[bot]` จะ commit เข้า main แล้ว deploy ต่อ ถ้าไม่มีก็ข้าม กดรันเองได้ตลอดที่แท็บ Actions (`workflow_dispatch`)
+- SPA deep link ทำงานบน Pages ด้วยเทคนิค copy `index.html` → `404.html` + vite `base: /lpa/` (ตั้งผ่าน `VITE_BASE` ตอน build บน CI)
+- ข้อจำกัดที่รับไว้: runner ของ Actions อาจโดน Cloudflare ท้าทายบ้าง (มี retry ใน tool) — รอบที่ดึงไม่สำเร็จเว็บยังใช้ข้อมูลรอบก่อน ไม่มีข้อมูลหาย
+
 ## หน้าต่างๆ
 
 | หน้า | เส้นทาง | ความสามารถ |

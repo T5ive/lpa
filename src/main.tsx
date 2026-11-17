@@ -12,7 +12,8 @@ createRoot(document.getElementById("root")!).render(
     <ThemeProvider>
       <LotteryDataProvider>
         <TooltipProvider>
-          <BrowserRouter>
+          {/* BASE_URL ตาม VITE_BASE — บน GitHub Pages คือ /lpa/ เพื่อให้ลิงก์ภายใน (เช่น "/") ชี้ถูก subpath */}
+          <BrowserRouter basename={import.meta.env.BASE_URL}>
             <App />
           </BrowserRouter>
         </TooltipProvider>
